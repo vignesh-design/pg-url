@@ -1,0 +1,338 @@
+[Event "Casual Classical game"]
+[Site "https://lichess.org/p835A4O7"]
+[Date "2019.08.31"]
+[White "AttackingOrDefending"]
+[Black "lichess AI level 8"]
+[Result "1-0"]
+[WhiteElo "2158"]
+[WhiteTitle "BOT"]
+[TimeControl "900+15"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+[UTCDate "2021.02.12"]
+[UTCTime "05:49:33"]
+[Variant "Standard"]
+[ECO "C42"]
+[Opening "Russian Game"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 { C42 Petrov's Defense } 3... Qe7 4. d4 Nc6 5. Nc3 Nxe5 6. dxe5 Qxe5 7. f4 Qe7?! { Inaccuracy. Qe6 was best. } (7... Qe6 8. Qd4 b6 9. Bc4 Bc5 10. Qd3 Qe7 11. Bd2 Bb7 12. O-O-O) 8. Qe2 d6 9. Bd2 c6 10. h3 g6 11. g4 Bg7 12. O-O-O h5 13. g5 Nd7 14. Kb1 O-O 15. f5 Be5 16. Qf3 b5 17. Ne2 Nc5 18. Bg2 a5 19. Nf4 Qe8?? { Blunder. gxf5 was best. } (19... gxf5) 20. Nxh5 gxh5 21. Qxh5 Ne6? { Mistake. Bh8 was best. } (21... Bh8 22. Rhf1) 22. f6 Bb7 23. Bf3 d5?! { Checkmate is now unavoidable. c5 was best. } (23... c5 24. Rhg1) 24. Bg4 Nf4 25. Qh6 Bxf6 26. gxf6 Ne6 27. Bxe6 a4 28. Qg7# { White wins by checkmate. } 1-0
+
+
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/rU1ljTYb"]
+[Date "2020.09.14"]
+[White "lichess AI level 8"]
+[Black "AndScacs1"]
+[Result "0-1"]
+[BlackElo "2441"]
+[BlackTitle "BOT"]
+[TimeControl "300+1"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+[UTCDate "2021.02.12"]
+[UTCTime "05:49:33"]
+[Variant "Standard"]
+[ECO "C65"]
+[Opening "Ruy Lopez: Berlin Defense"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 { C65 Ruy Lopez: Berlin Defense } 4. Bxc6 dxc6 5. d3 Bd6 6. O-O Qe7 7. h3 Be6 8. Be3? { (0.29 → -1.14) Mistake. c4 was best. } (8. c4 O-O 9. Be3 Bc5 10. Qe2 Nd7 11. Nc3 f6 12. Rad1 Bb4) 8... h6 9. c4 g5 10. Qb3? { (-1.22 → -2.43) Mistake. d4 was best. } (10. d4 O-O-O 11. dxe5 Bxe5 12. Nbd2 Bf4 13. Bxf4 gxf4 14. Qe2 Nh7 15. Kh2 Ng5 16. Rad1 Qb4) 10... O-O-O 11. Qc2? { (-2.10 → -3.75) Mistake. Qa4 was best. } (11. Qa4 g4 12. hxg4 Bxg4 13. Nbd2 a6 14. c5 Bxc5 15. Bxc5 Qxc5 16. Rfc1 Qe7 17. Qa5 Rxd3) 11... g4 12. hxg4 Bxg4 13. Nh2 Rhg8 14. Nxg4?! { (-3.42 → -4.72) Inaccuracy. c5 was best. } (14. c5 Bh3) 14... Nxg4 15. Nd2 Qh4 16. Nf3 Qh5 17. Rab1?! { (-5.79 → -8.36) Inaccuracy. c5 was best. } (17. c5 Be7) 17... Rg6 18. c5 Rf6 19. Rfe1 Rxf3 20. cxd6 Rg8 21. Bc5 Rh3 22. g3 Nxf2 23. d7+ Kxd7 24. Qxf2 Rgxg3+ 25. Qxg3 Rxg3+ 26. Kf1 Qf3+ 27. Bf2 Rh3 28. a3 Rh1# { Black wins by checkmate. } 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/ZfvBwdG8"]
+[Date "2020.09.23"]
+[White "lichess AI level 8"]
+[Black "ChthonicMonster"]
+[Result "0-1"]
+[BlackElo "3422"]
+[BlackTitle "BOT"]
+[TimeControl "60+1"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+[UTCDate "2021.02.12"]
+[UTCTime "05:49:33"]
+[Variant "Standard"]
+[ECO "C77"]
+[Opening "Ruy Lopez: Morphy Defense, Anderssen Variation"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 { C77 Ruy Lopez: Morphy Defense, Anderssen Variation } 5... Bc5 6. Bxc6 dxc6 7. O-O Bd6 8. h3 Qe7 9. Nbd2? { (0.31 → -0.86) Mistake. c4 was best. } (9. c4 Be6) 9... g5 10. a3?! { (-0.48 → -1.51) Inaccuracy. d4 was best. } (10. d4 g4) 10... g4 11. hxg4 Bxg4 12. Nc4 O-O-O 13. b4?! { (-1.32 → -1.94) Inaccuracy. Ne3 was best. } (13. Ne3 Rhg8 14. Bd2 Bc5 15. Bb4 Bxb4 16. axb4 Qxb4 17. Qd2 Qd6 18. Nh2 Bd7 19. Rfb1 Nh5) 13... Rdg8 14. Ne3 Qe6 15. Bb2? { (-1.09 → -2.23) Mistake. Kh2 was best. } (15. Kh2 Nh5 16. Rh1 f5 17. exf5 Qf6 18. Nxg4 Rxg4 19. Kg1 e4 20. dxe4 Rhg8 21. Rxh5 Qxa1) 15... h5 16. c4 c5 17. Rc1?! { (-2.21 → -3.28) Inaccuracy. Kh1 was best. } (17. Kh1 cxb4) 17... h4 18. Kh1? { (-2.77 → -4.68) Mistake. Kh2 was best. } (18. Kh2 Nh5 19. Rg1 Nf4 20. Rb1 f6 21. Bc1 Bh3 22. Nd5 Nxg2 23. Be3 Nxe3 24. Rxg8+ Rxg8) 18... Nh5 19. Rg1?! { (-3.34 → -4.38) Inaccuracy. Kh2 was best. } (19. Kh2 Kb8) 19... f5 20. exf5 Bxf5 21. Nxf5?? { (-3.92 → -13.36) Blunder. Re1 was best. } (21. Re1 Nf4 22. Nxe5 Bxe5 23. Nxf5 Qxf5 24. Rxe5 Qg6 25. Qf1 Nxd3 26. Re2 Nxc1 27. Bxc1 cxb4) 21... Qxf5 22. Rc2?! { (-13.07 → Mate in 9) Checkmate is now unavoidable. Ng5 was best. } (22. Ng5 Ng3+ 23. Kh2 Qf4 24. Qf3 Nf1+ 25. Kh3 Qh2+ 26. Kg4 Qxg1 27. Bxe5 Bxe5 28. Rxf1 Qxf1) 22... Ng3+ 23. Kh2 Qf4 24. Bc1 h3 25. Rh1 Ne2+ 26. g3 Rxg3 27. Rg1 Rg2+ 28. Kh1 Qxf3 29. Qxe2 Rxg1+ 30. Kxg1 Qg2# { Black wins by checkmate. } 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/TvGQM0QX"]
+[Date "2019.11.07"]
+[White "Xerus_1"]
+[Black "lichess AI level 8"]
+[Result "1-0"]
+[WhiteElo "2475"]
+[WhiteTitle "BOT"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+[UTCDate "2021.02.12"]
+[UTCTime "05:49:33"]
+[Variant "Standard"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 { B30 Sicilian Defense: Nyezhmetdinov-Rossolimo Attack } 3... e6 4. Nc3 Nd4 5. O-O a6 6. Bd3 Nxf3+ 7. Qxf3 Bd6?! { Inaccuracy. Ne7 was best. } (7... Ne7 8. b3 Ng6 9. Bb2 Be7 10. Qh5 Nf4 11. Qe5 Ng6) 8. Qh3 Qc7 9. Be2 Ne7 10. d3 Be5 11. Nd1 d5 12. f4 Bd4+ 13. Kh1 c4 14. e5 b5?! { Inaccuracy. Bd7 was best. } (14... Bd7 15. dxc4) 15. c3 Bb6 16. d4 O-O?! { (0.79 → 1.33) Inaccuracy. b4 was best. } (16... b4 17. Ne3) 17. Ne3 b4?! { Inaccuracy. Bd7 was best. } { (0.99 → 1.61) Inaccuracy. Nf5 was best. } (17... Nf5 18. g4)  (17... Bd7 18. Bd1) 18. Bd1 h6? { Mistake. f6 was best. } { (1.62 → 2.62) Inaccuracy. f5 was best. } (18... f5 19. exf6 Rxf6 20. Bc2 Rh6 21. Qf3 Rf6 22. Qh5 g6 23. Qh4 Rf8 24. Ng4 Nf5 25. Bxf5)  (18... f6 19. exf6) 19. Bc2 Bd7?? { Blunder. Nf5 was best. } { (2.42 → 5.61) Blunder. Nf5 was best. } (19... Nf5 20. g4 (20. Ng4)) 20. Ng4 b3 21. axb3 cxb3?! { Inaccuracy. Rfe8 was best. } { (5.36 → 9.83) Inaccuracy. Nf5 was best. } (21... Nf5 22. Nf6+ Kh8 23. Nxd7 Qxd7 24. g4 Nxd4 25. cxd4 Bxd4 26. Rd1 Bb6 27. bxc4 Qc6 28. Qd3)  (21... Rfe8 22. bxc4) 22. f5 exf5 23. Nf6+ gxf6 24. exf6 Qc4?? { Checkmate is now unavoidable. Bxd4 was best. } { (15.44 → Mate in 6) Checkmate is now unavoidable. h5 was best. } (24... h5 25. Qxh5)  (24... Bxd4 25. cxd4) 25. Bg5 h5 26. Qxh5 Qxf1+ 27. Rxf1 Bxd4 28. Qh6 Bxf6 29. Bxf6 d4 30. Qh8# { White wins by checkmate. } 1-0
+
+
+[Event "Casual Classical game"]
+[Site "https://lichess.org/Az7CrDjY"]
+[Date "2020.12.25"]
+[White "XXIstCentury"]
+[Black "lichess AI level 8"]
+[Result "1-0"]
+[WhiteElo "2165"]
+[WhiteTitle "BOT"]
+[TimeControl "9000+0"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+[UTCDate "2021.02.12"]
+[UTCTime "05:49:33"]
+[Variant "Standard"]
+[ECO "C11"]
+[Opening "French Defense: Steinitz Variation, Boleslavsky Variation"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 { C11 French Defense: Steinitz Variation, Boleslavsky Variation } 7... Qb6 8. Na4 Qa5+ 9. c3 cxd4 10. b4 Nxb4 11. cxb4 Bxb4+ 12. Bd2 Bxd2+ 13. Nxd2 O-O 14. Bd3 b5 15. Nb2 Nb6 16. O-O Nc4 17. Bxh7+ Kxh7 18. Qh5+ Kg8 19. Nf3 f6 20. Nh4 f5 21. Rf3 Ne3 22. Ng6 Re8 23. Rh3 Qc3 24. Ne7+ Kf8 25. Qg5 Kf7 26. Rh7 Rg8 27. Nxg8 Qc5 28. Qxg7+ Ke8 29. Nf6+ Kd8 30. Rh8+ Qf8 31. Rxf8# { White wins by checkmate. } 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/oMxcGUPn"]
+[Date "2021.01.05"]
+[White "Houdini-6"]
+[Black "lichess AI level 8"]
+[Result "1-0"]
+[WhiteElo "2527"]
+[WhiteTitle "BOT"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+[UTCDate "2021.02.12"]
+[UTCTime "05:49:33"]
+[Variant "Standard"]
+[ECO "C19"]
+[Opening "French Defense: Winawer Variation, Poisoned Pawn Variation"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 { C19 French Defense: Winawer Variation, Poisoned Pawn Variation } 7... O-O 8. Bd3 c4 9. Bh6 Ng6 10. Bxg6 fxg6 11. Be3 Nc6 12. h4 Qe8 13. h5 gxh5 14. Rxh5 Ne7 15. Kd2 Qg6 16. Rg5 Qf7 17. Qh3 Nf5 18. Ne2 h6 19. Rh1 Qe7 20. Rg6 Qf7 21. Nf4 Bd7 22. g4 Nxe3 23. Qxh6 Qxg6 24. Qxg6 Rxf4 25. Rh7 Rxf2+ 26. Kxe3 Rf3+ 27. Kxf3 Rf8+ 28. Kg3 Rf7 29. Qh5 Kf8 30. Rh8+ Ke7 31. Qg5+ Rf6 32. Qxg7+ Rf7 33. Qg5+ Rf6 34. Qxf6# { White wins by checkmate. } 1-0
+
+
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/vGjjcVmW"]
+[Date "2020.11.17"]
+[White "YoBot_v2"]
+[Black "lichess AI level 8"]
+[Result "1-0"]
+[WhiteElo "2487"]
+[WhiteTitle "BOT"]
+[TimeControl "300+10"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+[UTCDate "2021.02.12"]
+[UTCTime "05:49:33"]
+[Variant "Standard"]
+[ECO "C19"]
+[Opening "French Defense: Winawer Variation, Poisoned Pawn Variation"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 { C19 French Defense: Winawer Variation, Poisoned Pawn Variation } 7... O-O 8. Bd3 c4 9. Bh6 Ng6 10. Bxg6 fxg6 11. Be3 Nc6 12. h4 Qe8 13. h5 gxh5 14. Rxh5 Ne7 15. Kd2 Qg6 16. Rg5 Qf7 17. Qh3 Nf5 18. Ne2 h6 19. Rh1 Kh8 20. Nf4 Bd7 21. Rg6 Kg8 22. g4 Ne7 23. Rg5 Rfc8 24. Qxh6 Kf8 25. Qh7 Qg8 26. Rh6 Qxh7 27. Rxh7 Ke8 28. Rgxg7 Kd8 29. Nxe6+ Bxe6 30. Rxe7 Rc7 31. Rxc7 Bg8 32. Bg5+ Ke8 33. Rhe7+ Kd8 34. Rg7+ Ke8 35. Rxg8# { White wins by checkmate. } 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/AElOTSCE"]
+[Date "2020.04.06"]
+[White "Corvus-1"]
+[Black "lichess AI level 8"]
+[Result "1-0"]
+[WhiteElo "2724"]
+[WhiteTitle "BOT"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+[UTCDate "2021.02.12"]
+[UTCTime "05:49:33"]
+[Variant "Standard"]
+[ECO "D38"]
+[Opening "Queen's Gambit Declined: Ragozin Defense"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Bb4 { D38 Queen's Gambit Declined: Ragozin Defense } 5. Bg5 O-O 6. Qb3 Bxc3+ 7. Qxc3 Nbd7 8. cxd5 exd5 9. e3 h6 10. Bh4 g5 11. Bg3 c5 12. Nd2 Qb6 13. dxc5 Nxc5 14. Be5 Nfe4 15. Nxe4 Nxe4 16. Qa3 Re8 17. Bd4 Qd6 18. Bb5 Qxa3 19. bxa3 Rf8 20. Be2 Be6 21. f3 Nd6 22. Bf6 Nc4 23. g4 Nxa3 24. Kf2 Nc2 25. Rad1 d4 26. exd4 Rfe8 27. h4 Ne3 28. hxg5 Bf5 29. gxf5 Re6 30. fxe6 Nf5 31. e7 Re8 32. Rdg1 h5 33. Rxh5 Ng7 34. Rgh1 Nxh5 35. Rxh5 a6 36. Rh8# { White wins by checkmate. } 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/y6FCbqAD"]
+[Date "2019.08.14"]
+[White "lichess AI level 8"]
+[Black "fougade"]
+[Result "0-1"]
+[BlackElo "2959"]
+[BlackTitle "BOT"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+[UTCDate "2021.02.12"]
+[UTCTime "05:49:33"]
+[Variant "Standard"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+
+1. e4 e6 2. Nf3 { C00 French Defense: Knight Variation } 2... d5 3. exd5 exd5 4. d4 Nf6 5. Bd3 Bd6 6. O-O O-O 7. c4 dxc4 8. Bxc4 Nc6 9. Nc3 h6 10. Re1 Re8 11. Be3 a6 12. a3 Bf5 13. h3 Qd7 14. Rc1 Rab8 15. b4 Rbd8 16. Qb3?? { (0.00 → -2.07) Blunder. Bf1 was best. } (16. Bf1 b5) 16... Bxh3 17. Bxf7+ Kh8 18. gxh3?! { (-1.86 → -2.47) Inaccuracy. Nh4 was best. } (18. Nh4 Qg4 19. Bxe8 Rxe8 20. Bf4 Bxf4 21. Rxe8+ Nxe8 22. Re1 Nd6 23. Nd5 Qxh4 24. Qxh3 Qxh3) 18... Qxh3 19. Bxe8 Rxe8 20. b5?? { (-2.35 → -5.75) Blunder. Bf4 was best. } (20. Bf4 Rxe1+) 20... Rf8 21. bxc6? { (-4.48 → -8.89) Mistake. Nd5 was best. } (21. Nd5) 21... Ng4 22. Qc2 Rxf3 23. Bf4 Rxf4 24. f3 Ne5 25. Re4?! { (-21.43 → Mate in 15) Checkmate is now unavoidable. Nd5 was best. } (25. Nd5 Nxf3+) 25... Qg3+ 26. Qg2 Nxf3+ 27. Kf1 Nh4+ 28. Ke2 Qxg2+ 29. Kd3 Rf3+ 30. Kc4?! { (-71.28 → Mate in 7) Checkmate is now unavoidable. Re3 was best. } (30. Re3 Rxe3+) 30... Qb2 31. Re5 Bxe5 32. cxb7 Rxc3+ 33. Kd5 Qxb7+ 34. Ke6 Qc8+ 35. Kf7 Qd7+ 36. Kf8 Ng6# { Black wins by checkmate. } 0-1
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/8lvE9tG5"]
+[Date "2019.08.09"]
+[White "high_five"]
+[Black "lichess AI level 8"]
+[Result "1-0"]
+[WhiteElo "1500"]
+[WhiteTitle "BOT"]
+[TimeControl "-"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+[UTCDate "2021.02.12"]
+[UTCTime "05:49:33"]
+[Variant "Standard"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined: Vienna Variation"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 Bb4+ { D30 Queen's Gambit Declined: Vienna Variation } 5. Nc3 Nbd7 6. cxd5 exd5 7. e3 h6 8. Bh4 Bxc3+ 9. bxc3 O-O 10. Be2 g5 11. Bg3 Ne4 12. c4 Ndf6 13. O-O c6 14. Rc1 Nxg3 15. hxg3 Bg4 16. Bd3 dxc4 17. Bxc4 Qd7 18. Qb3 Bxf3 19. gxf3 Kg7 20. Rfd1 Rad8 21. Qb2 Qe7 22. Bb3 Rc8 23. Rc5 Rcd8 24. Re5 Qb4 25. e4 Kh7 26. Rf5 Ng8 27. f4 Ne7 28. Rf6 gxf4 29. e5 Kg7 30. Qe2 Ng6 31. Qh5 Qe7 32. gxf4 c5 33. f5 c4 34. Bxc4 Rc8 35. Bxf7 Rxf7 36. Qxg6+ Kh8 37. Rxf7 Qg5+ 38. Qxg5 hxg5 39. f6 Rf8 40. Rxf8+ Kh7 41. e6 g4 42. f7 Kg6 43. Rg8+ Kh6 44. Kg2 g3 45. Rh1# { White wins by checkmate. } 1-0
+
+
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/9qPhCpe6"]
+[Date "2020.11.09"]
+[White "ChessBot13920"]
+[Black "lichess AI level 8"]
+[Result "1-0"]
+[WhiteElo "2503"]
+[WhiteTitle "BOT"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+[UTCDate "2021.02.12"]
+[UTCTime "05:49:33"]
+[Variant "Standard"]
+[ECO "C11"]
+[Opening "French Defense: Steinitz Variation, Boleslavsky Variation"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 { C11 French Defense: Steinitz Variation, Boleslavsky Variation } 7... Be7 8. a3 O-O 9. Qd2 a6 10. Be2 b5 11. O-O Bb7 12. Nd1 Qc7 13. c3 c4 14. Bf2 Na5?! { (0.83 → 1.56) Inaccuracy. f6 was best. } (14... f6 15. Ne3 fxe5 16. fxe5 Qd8 17. Bd1 a5 18. Ng4 b4 19. axb4 axb4 20. Rxa8 Qxa8 21. Ng5) 15. Qe1 Nb3 16. Rb1 Qd8 17. Ne3 f5 18. Bd1 Bc6 19. Bh4 a5?! { (1.29 → 2.13) Inaccuracy. Bxh4 was best. } (19... Bxh4) 20. g4 g6 21. Qg3 Kh8 22. Rf2 Bxh4 23. Nxh4 b4 24. Nxg6+ hxg6 25. gxf5 Rxf5 26. Nxf5 exf5 27. Bc2 Qg8? { (3.03 → 4.78) Mistake. Qe7 was best. } (27... Qe7 28. Rg2) 28. Rg2 Qh7 29. Qg5 Rf8?! { (4.34 → 6.09) Inaccuracy. Re8 was best. } (29... Re8 30. Re1) 30. Re1 Qh5?! { (5.85 → 8.18) Inaccuracy. bxc3 was best. } (30... bxc3 31. bxc3) 31. Qe7 Qh7 32. Qd6 Ba4 33. Re3 Rg8 34. Rgg3 Qf7 35. Bxf5 Nf8 36. Rh3+ Nh7 37. Be6 Qg7 38. f5 Nxd4?! { (15.15 → Mate in 10) Checkmate is now unavoidable. Be8 was best. } (38... Be8 39. f6) 39. cxd4 Be8 40. f6 Qa7 41. Qb6 Rg7 42. Qd8 Rg8 43. Bxg8 Kxg8 44. Rxh7 Qc5 45. Qxe8+ Qf8 46. Qxg6+ Qg7 47. Qxg7# { White wins by checkmate. } 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/w1KFt4zT"]
+[Date "2019.07.30"]
+[White "NoobPwnFTW"]
+[Black "lichess AI level 8"]
+[Result "1-0"]
+[WhiteElo "2555"]
+[WhiteTitle "BOT"]
+[TimeControl "60+1"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+[UTCDate "2021.02.12"]
+[UTCTime "05:49:33"]
+[Variant "Standard"]
+[ECO "A00"]
+[Opening "Van Geet Opening"]
+
+1. Nc3 { A00 Van Geet Opening } 1... d5 2. e3 e5 3. d4 e4 4. f3 Nf6 5. Nge2 h5 6. fxe4 dxe4 7. b3 c6 8. Ng3 Bb4 9. Bd2 Ng4 10. Ngxe4 Qh4+ 11. g3 Qe7 12. Qe2 f5 13. h3 fxe4 14. hxg4 Bxg4 15. Qxg4 hxg4 16. Rxh8+ Kd7 17. Bg2 a5 18. Nxe4 a4 19. c3 Ba3 20. b4 Kc7 21. c4 Bxb4 22. c5 Bxd2+ 23. Kxd2 Qf7 24. Bf1 Qd5 25. Nc3 Qd7 26. Bd3 b6 27. cxb6+ Kb7 28. Ne4 Ra5 29. Rf1 a3 30. Rff8 Na6 31. Rf7 Qxf7 32. Nd6+ Kxb6 33. Nxf7 Ra4 34. Ra8 Kb7 35. Rxa6 Rxa6 36. Bxa6+ Kxa6 37. e4 c5 38. e5 Kb5 39. e6 Kc6 40. d5+ Kxd5 41. e7 Ke4 42. e8=Q+ Kf3 43. Qe2+ Kxg3 44. Ke3 Kh3 45. Kf4 g3 46. Ng5+ Kh4 47. Qg4# { White wins by checkmate. } 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/diIqsT55"]
+[Date "2020.09.02"]
+[White "Pineapple_BOT"]
+[Black "lichess AI level 8"]
+[Result "1-0"]
+[WhiteElo "2586"]
+[WhiteTitle "BOT"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+[UTCDate "2021.02.12"]
+[UTCTime "05:49:33"]
+[Variant "Standard"]
+[ECO "C67"]
+[Opening "Ruy Lopez: Berlin Defense, Rio Gambit Accepted"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 { C67 Ruy Lopez: Berlin Defense, Rio Gambit Accepted } 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8. Rxe5 O-O 9. d4 b6 10. Nc3 Bb7 11. Qd3 Bf6 12. Re1 g5 13. a4 a6 14. d5 h6 15. Bd2 Bg7 16. Ne4 Nxe4 17. Rxe4 f5 18. Re3 f4?! { Inaccuracy. Bxb2 was best. } { (0.76 → 1.95) Mistake. Bxb2 was best. } (18... Bxb2 19. Rae1 Rf7 20. a5 Qf6 21. d6 Be4 22. Qb3 Bd4 23. Bc4 Bxe3 24. Bxf7+ Qxf7 25. Qxe3) 19. Re4 f3 20. g3 Rf7? { Mistake. Qf6 was best. } { (1.76 → 2.58) Inaccuracy. Qf6 was best. } (20... Qf6 21. Rae1 Qf5 22. Bc3 Bxd5 23. Re7 Bxc3 24. Qxc3 Bf7 25. Qxc7 Qf6 26. Qxd7 Rfd8 27. Qh3) 21. Rae1 c5? { Mistake. a5 was best. } { (1.95 → 3.26) Mistake. Bxb2 was best. } (21... Bxb2 22. h4)  (21... a5 22. Qb3 Bf6 23. Bc4 Qf8 24. h4 d6 25. hxg5 hxg5 26. Bd3 Rh7 27. Re6 Rh6 28. Bf5) 22. h4 Bf6?! { Inaccuracy. Qf6 was best. } { (3.05 → 4.01) Inaccuracy. Qf6 was best. } (22... Qf6 23. hxg5) 23. d6 Bxe4?! { Inaccuracy. Qf8 was best. } (23... Qf8 24. Rg4 Rg7 25. hxg5 hxg5 26. Qb3+ Kh8 27. Qxb6 Bd5 28. Qxc5 Be6 29. Rxg5 Bxg5 30. Bxg5) 24. Qxe4 Kh8? { Mistake. b5 was best. } { (4.53 → 8.36) Mistake. b5 was best. } (24... b5 25. axb5) 25. Bc4 Rg7 26. hxg5 Rxg5 27. Qxf3 Qf8 28. Bxg5 Bxg5 29. Qh5 Bf6 30. Qg6 Bg7?! { (5.89 → 9.23) Inaccuracy. Bd4 was best. } (30... Bd4 31. Re2) 31. Bd3 Qg8 32. Re7 Rf8 33. c3 Rf6 34. Qe4 b5 35. Rxd7 Re6 36. Qb7 c4 37. Be4 Re8 38. Re7 b4?! { Checkmate is now unavoidable. bxa4 was best. } { (11.13 → Mate in 10) Checkmate is now unavoidable. Rd8 was best. } (38... Rd8 39. Qxa6 Qf8 40. Qxb5 Kg8 41. Qh5 Rxd6 42. Re8 Rf6 43. Rxf8+ Bxf8 44. Bd5+ Kh8 45. Qg4)  (38... bxa4 39. Qc6) 39. Rxe8 Qxe8 40. d7 Qd8?? { Checkmate is now unavoidable. Qe7 was best. } (40... Qe7 41. Qc7 Kg8 42. d8=Q+ Qxd8 43. Qxd8+ Kf7 44. Bd5+ Kg6 45. Qe8+ Kf5 46. Qe6+ Kg5 47. f4+) 41. Qd5 a5 42. Qf5 Kg8 43. Qe6+ Kh8 44. Qe8+ Bf8 45. Qxd8 Kg8 46. Qe8 bxc3 47. Qg6+ Bg7 48. d8=R# { White wins by checkmate. } 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/qQ6kuqub"]
+[Date "2020.05.21"]
+[White "lichess AI level 8"]
+[Black "CubeOfRubik"]
+[Result "0-1"]
+[BlackElo "2583"]
+[BlackTitle "BOT"]
+[TimeControl "60+1"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+[UTCDate "2021.02.12"]
+[UTCTime "05:49:33"]
+[Variant "Standard"]
+[ECO "C69"]
+[Opening "Ruy Lopez: Exchange Variation, Alapin Gambit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 h5 { C69 Ruy Lopez: Exchange Variation, Alapin Gambit } 7. d3 Qf6 8. Nbd2 Ne7 9. b3 Ng6 10. a3 Nf4 11. Bb2 Bd6 12. Kh2 O-O-O 13. Qe1 Qe6 14. Rg1 f6 15. Qe3 Bxh3 16. Kh1 Bg4 17. Qa7 Bxf3 18. Nxf3 g5 19. d4 exd4 20. Bxd4 h4 21. e5 g4 22. Be3 fxe5 23. Bxf4 exf4 24. Nd4 Qf7 25. Rad1 h3 26. Qa8+ Kd7 27. Qxb7 Qd5 28. Qxc6+ Qxc6 29. Nxc6 Kxc6 30. Rd3 Rde8 31. g3 fxg3 32. fxg3 Rhf8 33. Rd2 Bc5 34. Rb1 Bf2 35. Rf1 Bxg3 36. Rg1 Re1 37. Rxe1 Bxe1 38. Rd1 Rf1+ 39. Kh2 Bg3+ 40. Kxg3 Rxd1 41. b4 Rg1+ 42. Kf4 h2 43. Kg5 h1=Q 44. b5+ Kd6 45. Kg6 Ke6 46. c4 Qh8 47. bxa6 Qg8+ 48. Kh6 Rh1# { Black wins by checkmate. } 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/lmHse8Mh"]
+[Date "2020.09.06"]
+[White "ZeroThink-01"]
+[Black "lichess AI level 8"]
+[Result "1-0"]
+[WhiteElo "2544"]
+[WhiteTitle "BOT"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+[UTCDate "2021.02.12"]
+[UTCTime "05:49:33"]
+[Variant "Standard"]
+[ECO "C65"]
+[Opening "Ruy Lopez: Classical Variation, Zukertort Gambit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 5. c3 { C65 Ruy Lopez: Classical Variation, Zukertort Gambit } 5... Nxe4 6. Qe2 Bxf2+ 7. Kh1 d5 8. d3 Ng3+ 9. hxg3 Bxg3 10. Bg5 f6 11. Bh4 Bxh4 12. Nxh4 O-O 13. Bxc6 bxc6 14. Nd2 f5 15. g3 Qd6 16. Rae1 e4 17. dxe4 dxe4 18. Qe3 Be6 19. Kg1 Rad8?! { (0.76 → 1.37) Inaccuracy. a5 was best. } (19... a5 20. Nb3) 20. Nb3 Bxb3?! { Inaccuracy. Qe5 was best. } (20... Qe5 21. Nd4) 21. axb3 Qe5 22. b4 g6 23. Kh2 Rd5 24. Ng2 a5 25. bxa5 Rxa5 26. Rd1 Qe7 27. Rd4 Rd5 28. Rxd5 cxd5 29. b4 d4?! { Inaccuracy. c6 was best. } { (1.23 → 1.96) Inaccuracy. Ra8 was best. } (29... Ra8 30. Qd4 Qd6 31. Nf4 Ra2+ 32. Kg1 c6 33. b5 cxb5 34. Rb1 Ra4 35. Qxd5+ Qxd5 36. Nxd5)  (29... c6 30. Qd2 Qf6 31. b5 d4 32. cxd4 cxb5 33. Nf4 Rc8 34. Rf2 Qc6 35. Qa2+ Kh8 36. d5) 30. Qxd4 Rd8 31. Qc4+ Qf7 32. Qe2 Qb3 33. Nf4 Qxc3 34. Qa2+ Kh8 35. Kh3 Qd2 36. Qa5 Qd7?! { Inaccuracy. Qd6 was best. } (36... Qd6 37. Rc1) 37. Rc1 Rc8?? { Blunder. Qg7 was best. } { (2.52 → 5.48) Blunder. Qg7 was best. } (37... Qg7 38. Qa2 e3 39. Qe6 g5 40. Nh5 Qd4 41. Qxf5 Qd7 42. Qxd7 Rxd7 43. Kg4 e2 44. Kf3) 38. b5 Kg8?! { Inaccuracy. g5 was best. } { (4.21 → 9.46) Mistake. g5 was best. } (38... g5 39. b6 c6 40. Qe5+ Kg8 41. b7 Qxb7 42. Qe6+ Kh8 43. Nh5 Rf8 44. Qe5+ Kg8 45. Nf6+) 39. b6 c6 40. Qa2+ Kh8 41. Ra1 Rb8 42. Qf2 Kg7? { Checkmate is now unavoidable. e3 was best. } (42... e3 43. Qxe3) 43. Ra7 Rb7 44. Qb2+ Kh6?! { Checkmate is now unavoidable. Kf7 was best. } { (28.72 → Mate in 8) Checkmate is now unavoidable. Kf7 was best. } (44... Kf7 45. Qh8) 45. Rxb7 Qxb7 46. Qf6 Qa6 47. Kh4 Qa1 48. Qxa1 g5+ 49. Kh3 gxf4 50. Qf6+ Kh5 51. gxf4 e3 52. Qg5# { White wins by checkmate. } 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/YHd4TS4t"]
+[Date "2020.06.02"]
+[White "Stockfishjs"]
+[Black "lichess AI level 8"]
+[Result "1-0"]
+[WhiteElo "2424"]
+[WhiteTitle "BOT"]
+[TimeControl "60+1"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+[UTCDate "2021.02.12"]
+[UTCTime "05:49:33"]
+[Variant "Standard"]
+[ECO "C81"]
+[Opening "Ruy Lopez: Open, Howell Attack"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 a6 6. Ba4 b5 7. Bb3 d5 8. dxe5 Be6 9. Qe2 { C81 Ruy Lopez: Open Variations, Howell Attack } 9... Be7 10. Rd1 Nc5 11. Nc3 Nxb3 12. cxb3 O-O 13. Be3 Qd7 14. Rd2 Nd8 15. h3 c6 16. Ne4 Re8 17. Nc5 Bxc5 18. Bxc5 Bf5 19. Qe3 a5 20. Rc1 Bg6 21. Nd4 Ne6 22. f4 Be4 23. Ne2 Bg6 24. Qf2 h6 25. Be3 Bh7 26. g4 Rac8 27. f5 Ng5 28. Bxg5 hxg5 29. Qe3 Qe7 30. Nd4 c5 31. Nf3 d4 32. Qe4 f6 33. Re2 Kh8 34. h4 gxh4 35. Rh2 c4 36. Nxh4 Kg8 37. Qd5+ Qf7 38. e6 Rxe6 39. fxe6 Qe7 40. Nf5 Bxf5 41. Qxf5 g6 42. Qxg6+ Qg7 43. Qe4 Re8 44. Kf2 f5 45. gxf5 Kf8 46. Rch1 d3 47. Rh8+ Ke7 48. R1h7 Qxh7 49. Rxh7+ Kf6 50. Rf7+ Kg5 51. Kg3 Rh8 52. Qg4+ Kh6 53. Qh4# { White wins by checkmate. } 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/J8AhxyGK"]
+[Date "2020.08.27"]
+[White "BOTzillarades"]
+[Black "lichess AI level 8"]
+[Result "1-0"]
+[WhiteElo "2945"]
+[WhiteTitle "BOT"]
+[TimeControl "30+1"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+[UTCDate "2021.02.12"]
+[UTCTime "05:49:33"]
+[Variant "Standard"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Blackburne Gambit"]
+
+1. e4 d5 2. exd5 c6 3. dxc6 Nxc6 { B01 Scandinavian Defense: Blackburne Gambit } 4. Nc3 Nf6 5. Nf3 e5 6. Bb5 Bd6 7. d4 exd4 8. Qxd4 O-O 9. Bxc6 bxc6 10. O-O Be6 11. Re1 Re8 12. Bg5 Be7 13. Ne4 c5 14. Qe5 Nxe4 15. Bxe7 Qxe7 16. Rxe4 f6 17. Qc3 Qd6 18. Rae1 Bf7 19. Nd2 Rxe4 20. Nxe4 Qb6 21. Nxc5 Rc8 22. b4 Bxa2 23. h3 Bf7 24. Re7 Rc7 25. Rxc7 Qxc7 26. Qf3 Qd8 27. Qg4 Qe8 28. Qe4 Qd8 29. Qd3 Qe8 30. Ne4 h5 31. Qd4 Qc6 32. c3 Bd5 33. f3 Qb6 34. Qxb6 axb6 35. Kf2 Bxe4 36. fxe4 Kf7 37. Ke3 Ke6 38. Kd4 Kd6 39. c4 Kc6 40. c5 Kd7 41. Kd5 bxc5 42. bxc5 h4 43. c6+ Ke7 44. Kc5 Ke6 45. c7 Kd7 46. Kb6 Ke6 47. c8=Q+ Kf7 48. Kc5 Kg6 49. Qf5+ Kf7 50. Kd5 Ke7 51. Qh7 Kf7 52. Kd6 f5 53. exf5 Kf8 54. Ke6 g6 55. Qh8# { White wins by checkmate. } 1-0
