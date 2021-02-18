@@ -1,0 +1,404 @@
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 020"]
+[Black "A Third Mate in Four"]
+[Result "1-0"]
+[UTCDate "2020.06.28"]
+[UTCTime "14:40:04"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[FEN "8/4N2k/4K3/6B1/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Kf7 Kh8 2. Ng6+ Kh7 3. Nf8+ Kh8 4. Bf6# 1-0
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 021"]
+[Black "The Lock"]
+[Result "1-0"]
+[UTCDate "2020.06.28"]
+[UTCTime "14:40:04"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[FEN "4k3/8/3K4/4N1B1/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Kc7 Kf8 2. Kd7 Kg7 3. Ke6 (3. Ke7 Kh7 4. Kf6 (4. Kf7 Kh8 5. Nc6 Kh7 6. Ne7 Kh8 7. Ng6+ Kh7 8. Nf8+ Kh8 9. Bf6#) 4... Kh8 5. Nc6 Kh7 (5... Kg8)) 1-0
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 022"]
+[Black "Transition to the Lock"]
+[Result "1-0"]
+[UTCDate "2020.06.28"]
+[UTCTime "14:40:04"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[FEN "8/4Nk2/3K4/8/8/4B3/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Bg5 Ke8 2. Nc6 (2. Ng6 Kf7 3. Nh4 Ke8 4. Ke6 Kf8 5. Bf6 Ke8 6. Nf5 Kf8 7. Be7+ Kg8 8. Kf6 Kh7 9. Kf7 Kh8 10. Bg5 (10. Kg6 Kg8 11. Nh6+ Kh8 12. Bf6#)) 2... Kf7 3. Kd7 1-0
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 024"]
+[Black "The Drive"]
+[Result "1-0"]
+[UTCDate "2020.06.28"]
+[UTCTime "14:40:04"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[FEN "k7/8/2K5/3N4/8/4B3/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Kb6 Kb8 2. Bf4+ Ka8 (2... Kc8 3. Kc6 Kd8 4. Bc7+ Ke8 5. Nf4 (5. Kd6 Kf8 6. Ke6 Ke8 7. Bb6 Kf8 8. Nc7 (8. Nf4 { [%csl Gg5,Gg6] } 8... Ke8 9. Nh5 Kf8 10. Bc7 Ke8 11. Ng7+ Kf8 12. Kf6 { [%csl Gd8,Ge8] } 12... Kg8 13. Bd6 { [%csl Gf8] } 13... Kh7 { [%csl Gh6] } 14. Nf5 Kg8 15. Ne7+ (15. Kg6 Kh8 16. Bb4 Kg8 17. Nh6+ Kh8 18. Nf7+ (18. Bc3#)) 15... Kh7 16. Bf4 Kh8) 8... Kg7) 5... Ke7 6. Bd6+ (6. Be5 Kd8)) 3. Be3 1-0
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 023"]
+[Black "The King Shift"]
+[Result "1-0"]
+[UTCDate "2020.06.28"]
+[UTCTime "14:40:04"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[FEN "4k3/B7/2K5/3N4/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Bd4 (1. Bc5 Kf7 2. Nf4) 1... Kf7 2. Nf4 Ke7 3. Kc7 Kf7 4. Kd7 Kf8 5. Nd5 Kf7 6. Nf4 Kf8 7. Ke6 Ke8 8. Bf6 Kf8 9. Nd5 (9. Bh4 Ke8 10. Nh5 Kf8 11. Be7+ { [%csl Gf7,Gg7] } 11... Kg8 12. Kf6 Kh7 13. Kf7 Kh6 14. Nf4 Kh7 15. Bg5 Kh8 16. Ng6+ Kh7 17. Nf8+ Kh8 18. Bf6#) 9... Ke8 10. Nc7+ Kf8 11. Be7+ (11. Be5 Kg8) 1-0
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 025"]
+[Black "Perpetual Check"]
+[Result "1/2-1/2"]
+[UTCDate "2020.06.28"]
+[UTCTime "14:40:04"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[FEN "8/8/8/8/8/1K6/7q/3Q2qk w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Qf3+ Qhg2 2. Qh5+ Q1h2 3. Qd1+ Qhg1 4. Qh5+ Q2h2 5. Qd5+ Qgg2 6. Qd1+ Qhg1 7. Qh5+ Q2h2 8. Qf3+ 1/2-1/2
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 026"]
+[Black "Forced Mate"]
+[Result "1-0"]
+[UTCDate "2020.06.28"]
+[UTCTime "14:40:04"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[FEN "8/8/8/8/1K6/8/3Q4/qk6 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Kb3 1-0
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 027"]
+[Black "X-Ray Attack"]
+[Result "1-0"]
+[UTCDate "2020.06.28"]
+[UTCTime "14:40:04"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[FEN "4Q3/8/3K1k2/8/8/8/8/6q1 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Qf8+ Kg6 2. Qg8+ 1-0
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 028"]
+[Black "Stalemate Sacrifice"]
+[Result "1/2-1/2"]
+[UTCDate "2020.06.28"]
+[UTCTime "14:40:04"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[FEN "8/8/8/8/8/5qk1/7R/6K1 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Rh3+ Kxh3 1/2-1/2
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 029"]
+[Black "Perpetual Attack"]
+[Result "1/2-1/2"]
+[UTCDate "2020.06.28"]
+[UTCTime "14:40:04"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[FEN "8/8/8/8/8/4q2k/6R1/5K2 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Rh2+ Kg3 (1... Kg4 2. Rg2+ Kh5 3. Rh2+) 2. Rg2+ Kf3 3. Rg3+ 1/2-1/2
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 030"]
+[Black "Philidor's Position"]
+[Result "1-0"]
+[UTCDate "2020.06.28"]
+[UTCTime "14:40:04"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[FEN "4Q3/6rk/5K2/8/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Qe5 Kh8 2. Qb8+ Kh7 3. Qe8 Ra7 4. Qh5+ Kg8 5. Qg4+ Kh7 6. Qh3+ Kg8 7. Qg2+ (7. Qg3+ Kf8 { [%csl Gb8] } (7... Kh8 8. Qb8+ { [%cal Gb8a7] })) 1-0
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 031"]
+[Black "From Edge to Edge"]
+[Result "1-0"]
+[UTCDate "2020.06.28"]
+[UTCTime "14:40:04"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[FEN "2k5/r7/3K4/1Q6/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Qe8+ Kb7 2. Qd7+ Kb8 3. Qd8+ Kb7 4. Qc7+ Ka6 5. Qc6+ Ka5 { [%csl Gb5] } 6. Kc5 { [%csl Gb5] } 6... Rc7 7. Qxc7+ Ka4 8. Qg3 Ka5 9. Qa3# 1-0
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 032"]
+[Black "Double-Threat Queen"]
+[Result "1-0"]
+[UTCDate "2020.06.28"]
+[UTCTime "14:40:04"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[FEN "3k4/3r4/4K3/2Q5/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Qb6+ Ke8 { [%cal Gb6c6,Gc6e8] } (1... Kc8 2. Qc6+ { [%cal Gc8d8] } 2... Kd8 { [%cal Gc6d7,Gc6a8,Ga8a7] } (2... Kb8 3. Qxd7 Ka8 4. Kd6 Kb8 5. Kc6 Ka8 6. Qb7#) 3. Qa8+ Kc7 4. Qa7+ Kc6 5. Qxd7+) 2. Qc6 Kf8 3. Qxd7 1-0
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 034"]
+[Black "Perpetual Attack 2"]
+[Result "1/2-1/2"]
+[UTCDate "2020.06.28"]
+[UTCTime "14:40:04"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[FEN "8/8/6k1/8/8/1q6/5R2/K7 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Rg2+ Kf5 1/2-1/2
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 033"]
+[Black "Dual Methods"]
+[Result "1-0"]
+[UTCDate "2020.06.28"]
+[UTCTime "14:40:04"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[FEN "3k4/8/4K3/8/8/2Q5/8/3r4 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Qb3 Re1+ 2. Kd6 Kc8 (2... Re2 { [%csl Gb8] })  (2... Ke8 { [%csl Gg8] }) 3. Qc3+ 1-0
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 035"]
+[Black "The Right-Corner Draw"]
+[Result "1/2-1/2"]
+[UTCDate "2020.06.28"]
+[UTCTime "14:40:04"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[FEN "7B/4r3/8/8/8/6k1/8/7K w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Bc3 { [%csl Ge1] } (1. Bd4 Rh7+ (1... Rd7 2. Be5+ Kf2 3. Bb8 Rh7+ 4. Bh2 Rg7 5. Be5 Rg1+ 6. Kh2 Rg5) 2. Kg1 Rd7 3. Be5+) 1... Rf7 2. Be5+ Kf3 3. Kg1 Rh7 4. Ba1 Rh3 5. Bb2 1/2-1/2
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 036"]
+[Black "Pin and Win"]
+[Result "1-0"]
+[UTCDate "2020.06.28"]
+[UTCTime "14:40:04"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[FEN "1k6/5b2/1K6/8/8/8/1R6/8 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Rf2 Be8 2. Rf8 Kc8 3. Rxe8+ 1-0
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 037"]
+[Black "The Chase"]
+[Result "1-0"]
+[UTCDate "2020.06.28"]
+[UTCTime "14:40:04"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[FEN "6k1/5R2/6K1/8/8/8/8/6b1 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Rf1 Bh2 2. Rf2 (2. Rh1 Bg3 3. Rh3 Bd6 4. Rd3 Bf8 5. Rd8 Kh8 6. Rxf8#) 2... Bg3 3. Rg2 Bh4 (3... Bf4 4. Rg4 Be5 5. Re4 Bd6 6. Re8+ Bf8 7. Rd8 Kh8 8. Rxf8#) 4. Re2 1-0
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 038"]
+[Black "Corner Drive"]
+[Result "1-0"]
+[UTCDate "2020.06.28"]
+[UTCTime "14:40:04"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[FEN "4k3/3R4/1b1K4/8/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Re7+ (1. Ke6 Kf8 2. Rf7+ Kg8 3. Kf6 Bd4+ 4. Kg6 Bg1 5. Rf1 Bh2 6. Rh1 Bg3 7. Rh3 Bd6 8. Rd3 Bf8) 1... Kf8 2. Ke6 Kg8 3. Kf6 Bd4+ 4. Kg6 Bc5 5. Re8+ Bf8 6. Rd8 Kh8 7. Rxf8# 1-0
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 039"]
+[Black "Positional Draw"]
+[Result "1/2-1/2"]
+[UTCDate "2020.06.28"]
+[UTCTime "14:40:04"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[FEN "8/8/8/8/8/4k1B1/4r3/3K4 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Kc1 Kd3 2. Kb1 (2. Kd1 Kc3 3. Kc1) 2... Kc3 3. Ka1 Kb3 4. Kb1 1/2-1/2
+
+
+[Event "Endgame Hard Studies: Chapter 22"]
+[Site "https://lichess.org/study/C3a22Kkj/m0wgMBJ9"]
+[Result "*"]
+[UTCDate "2020.07.08"]
+[UTCTime "16:06:39"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+
+*
+
+
+[Event "Endgame Hard Studies: Chapter 22"]
+[Site "https://lichess.org/study/C3a22Kkj/Vcc6dp1G"]
+[Result "*"]
+[UTCDate "2020.07.12"]
+[UTCTime "16:18:38"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+
+*
