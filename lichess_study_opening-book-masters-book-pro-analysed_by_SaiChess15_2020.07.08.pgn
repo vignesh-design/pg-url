@@ -1,0 +1,154 @@
+[Event "Opening Book (Master's book PRO analysed): Sicilian Defence"]
+[Site "https://lichess.org/study/4xUHF3cp/tPxnq3hJ"]
+[Result "*"]
+[UTCDate "2020.07.08"]
+[UTCTime "07:04:15"]
+[Variant "Standard"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+[Annotator "https://lichess.org/@/SaiChess15"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. f3 Be7 9. Qd2 O-O 10. O-O-O Nbd7 11. g4 b5 12. g5 b4 13. Ne2 Ne8 14. f4 a5 15. f5 a4 16. Nbd4 exd4 17. Nxd4 b3 18. Kb1 bxc2+ 19. Nxc2 Bb3 20. axb3 axb3 21. Na3 Ne5 22. h4 Ra4 23. Bd4 Qa8 24. Qe3?! { Inaccuracy. Qg2 was best. } (24. Qg2 Kh8 25. h5 Rg8 26. Rh3 Rb4 27. Rg3 f6 28. g6 h6 29. Bc3 Ra4 30. Bb5 Qxe4+) 24... Kh8 25. Bb5 Ra5 *
+
+
+[Event "Opening Book (Master's book PRO analysed): Nimzo Indian: Rubinstien"]
+[Site "https://lichess.org/study/4xUHF3cp/aOMtfDCC"]
+[Result "*"]
+[UTCDate "2020.07.08"]
+[UTCTime "07:11:28"]
+[Variant "Standard"]
+[ECO "E15"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Check Variation, Intermezzo Line"]
+[Annotator "https://lichess.org/@/SaiChess15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. Bc3 d5 9. Ne5 Nfd7 10. Nxd7 Nxd7 11. Nd2 O-O 12. O-O Rc8 13. e4 b5 14. Re1 bxc4 15. bxc4 dxc4 16. Qa4 Bb5 17. Qc2 Re8 18. a4 Ba6 19. Rad1 Bf8 20. Nf1 Rb8 21. Ne3 Bb4 22. Bxb4 Rxb4 23. d5 Ne5 24. dxe6 Nd3 25. exf7+ Kxf7 *
+
+
+[Event "Opening Book (Master's book PRO analysed): Reti Opening"]
+[Site "https://lichess.org/study/4xUHF3cp/8dln6c5u"]
+[Result "*"]
+[UTCDate "2020.07.08"]
+[UTCTime "07:12:45"]
+[Variant "Standard"]
+[ECO "E97"]
+[Opening "King's Indian Defense: Orthodox Variation, Bayonet Attack, Sokolov's Line"]
+[Annotator "https://lichess.org/@/SaiChess15"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 9. b4 Nh5 10. Re1 f5 11. Ng5 Nf6 12. Bf3 c6 13. Be3 h6 14. Ne6 Bxe6 15. dxe6 fxe4 16. Nxe4 Nxe4 17. Bxe4 d5 18. cxd5 cxd5 19. Bc2 b6 20. Qg4 e4 21. Rad1?! { Inaccuracy. Rac1 was best. } (21. Rac1 Rc8) 21... Qc7 22. Bb3 Rf5 23. Re2 h5 24. Qh4 Bf6 25. Qg3 Be5 26. Qh4 *
+
+
+[Event "Opening Book (Master's book PRO analysed): English Opening"]
+[Site "https://lichess.org/study/4xUHF3cp/hUYLGgnU"]
+[Result "*"]
+[UTCDate "2020.07.08"]
+[UTCTime "07:19:08"]
+[Variant "Standard"]
+[ECO "E97"]
+[Opening "King's Indian Defense: Orthodox Variation, Bayonet Attack, Sokolov's Line"]
+[Annotator "https://lichess.org/@/SaiChess15"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 9. b4 Nh5 10. Re1 f5 11. Ng5 Nf6 12. Bf3 c6 13. Be3 h6 14. Ne6 Bxe6 15. dxe6 fxe4 16. Nxe4 Nxe4 17. Bxe4 d5 18. cxd5 cxd5 19. Bc2 b6 20. Qg4 e4 21. Rad1 Qc7 22. Bb3 Rf5 23. Re2 h5 24. Qh4 Bf6 25. Qg3 Be5 26. Qh4 *
+
+
+[Event "Opening Book (Master's book PRO analysed): Hungarian Opening"]
+[Site "https://lichess.org/study/4xUHF3cp/2g7Xp43M"]
+[Result "*"]
+[UTCDate "2020.07.08"]
+[UTCTime "07:22:44"]
+[Variant "Standard"]
+[ECO "A07"]
+[Opening "King's Indian Attack: Yugoslav Variation"]
+[Annotator "https://lichess.org/@/SaiChess15"]
+
+1. g3 d5 2. Bg2 Nf6 3. Nf3 c6 4. O-O Bg4 5. d3 Nbd7 6. Nbd2 e5 7. e4 dxe4 8. dxe4 Bc5 9. h3 Bh5 10. Qe1 O-O 11. Nc4 Re8 12. a4 Qc7?! { Inaccuracy. b5 was best. } (12... b5 13. Na5 Qc7 14. b4 Bb6 15. Nh4 a6 16. Nb3 c5 17. Nxc5 Nxc5 18. bxc5 Bxc5 19. Nf5) 13. Nh4 Bf8 14. Bg5 Re6?! { Inaccuracy. Rad8 was best. } (14... Rad8 15. g4) 15. a5 Rd8 16. Be3 b5 17. axb6 axb6 18. Ra2?! { Inaccuracy. f4 was best. } (18. f4 b5) 18... Ne8?! { Inaccuracy. b5 was best. } (18... b5 19. Qa5 Qb8 20. Ba7 Qa8 21. Ne3 Nc5 22. Rfa1 Ncxe4 23. g4 Bg6 24. Nxg6 hxg6 25. h4) 19. g4 Bg6 20. Qc3 Qb8 21. Rd1 b5 22. Nxg6 hxg6 23. Ra7 bxc4 24. Raxd7 Rxd7 25. Rxd7 Nd6 *
+
+
+[Event "Opening Book (Master's book PRO analysed): Nimzo-Larsen Attack"]
+[Site "https://lichess.org/study/4xUHF3cp/rWlwFIqy"]
+[Result "*"]
+[UTCDate "2020.07.08"]
+[UTCTime "07:25:20"]
+[Variant "Standard"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Modern Variation"]
+[Annotator "https://lichess.org/@/SaiChess15"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. Bb5 Bd6 5. Na3 Na5?! { Inaccuracy. e4 was best. } (5... e4 6. Nc4 Be7 7. Bxc6 bxc6 8. Ne2 a5 9. O-O a4 10. d3) 6. Be2 a6 7. c4 O-O 8. Nc2 Re8 9. d3 b5 10. Nf3 bxc4 11. dxc4 e4 12. Nfd4 Be5 13. c5 Bb7?! { Inaccuracy. Nb7 was best. } (13... Nb7 14. b4) 14. b4 Nc6 15. Nxc6 Bxc6 16. Bxe5 Rxe5 17. a4?! { Inaccuracy. Nd4 was best. } (17. Nd4 Nd5 18. a3 Qg5 19. O-O Nc3 20. Qc2 Nxe2+ 21. Nxe2 Bb5 22. Rfd1 Bd3 23. Qb2 a5) 17... d6?! { Inaccuracy. a5 was best. } (17... a5) 18. Nd4 Bb7 19. c6 Bc8 20. h3 h5?! { Inaccuracy. Nd5 was best. } (20... Nd5 21. Qd2 Qg5 22. g3 Ne7 23. Qb2 Qf6 24. h4 Rb8 25. Rb1 h6 26. Qd2 Rd5 27. Qc2) 21. g3?! { Inaccuracy. O-O was best. } (21. O-O Nd5 22. Qb3 Qg5 23. Kh2 Qg6 24. Bc4 Nb6 25. g3 a5 26. b5 Be6 27. Bxe6 fxe6) 21... h4 22. g4 Nh7 23. Kf1 Ng5 24. Kg2 g6 25. Qb3 Kg7 *
+
+
+[Event "Opening Book (Master's book PRO analysed): Bird Opening"]
+[Site "https://lichess.org/study/4xUHF3cp/78SSQYCs"]
+[Result "*"]
+[UTCDate "2020.07.08"]
+[UTCTime "07:26:46"]
+[Variant "Standard"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+[Annotator "https://lichess.org/@/SaiChess15"]
+
+1. f4 d5 2. Nf3 g6 3. g3 Bg7 4. Bg2 Nf6 5. O-O O-O 6. d3 c5 7. Qe1 Nc6 8. e4 dxe4 9. dxe4 e5 10. Nc3 Nd4 11. fxe5 Ng4 12. Nxd4 cxd4 13. Nd5 Nxe5 14. Qb4 Re8 15. Kh1 b6 16. Bf4 Ba6 17. Rf2 Rc8 18. Bxe5 Bxe5 19. Qa4 Bb7 20. Qxa7 Bxd5 21. exd5 Re7 22. Qa4 Qd6 23. Re2 Rec7 24. Rae1 f6 25. Qb3 Rc4 *
+
+
+[Event "Opening Book (Master's book PRO analysed): Van Geet Opening"]
+[Site "https://lichess.org/study/4xUHF3cp/pTaPzxrs"]
+[Result "*"]
+[UTCDate "2020.07.08"]
+[UTCTime "07:29:10"]
+[Variant "Standard"]
+[ECO "A00"]
+[Opening "Van Geet Opening"]
+[Annotator "https://lichess.org/@/SaiChess15"]
+
+1. Nc3 d5 2. e4 d4 3. Nce2 e5 4. Ng3 Be6 5. Nf3 f6 6. Bb5+ c6 7. Ba4 Na6 8. Bb3 Bxb3 9. axb3 d3 10. O-O Nb4 11. cxd3 Nxd3 12. Ne1 Nh6 13. Qc2 Nxc1 14. Qxc1 Qb6 15. Qc4 O-O-O 16. Nf3 Kb8 17. Ra4 g5 18. d3 Bc5 19. b4 Be7 20. Rd1 Rd7 21. Qe6 Rhd8 22. h3 Ng8 23. d4 exd4 24. b5?! { Inaccuracy. e5 was best. } (24. e5) 24... Rd6 25. Qf7?! { Inaccuracy. Qf5 was best. } (25. Qf5 d3) 25... cxb5 *
+
+
+[Event "Opening Book (Master's book PRO analysed): Polish Opening"]
+[Site "https://lichess.org/study/4xUHF3cp/zqI5H19b"]
+[Result "*"]
+[UTCDate "2020.07.08"]
+[UTCTime "07:30:57"]
+[Variant "Standard"]
+[ECO "A00"]
+[Opening "Polish Opening"]
+[Annotator "https://lichess.org/@/SaiChess15"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. c4 O-O 5. Nf3 d5 6. e3 c5 7. a3 Ba5 8. cxd5 Nxd5 9. Qc2 Nc6 10. Bb2 Qe7 11. Be2 g6 12. O-O Bf5 13. Bd3 Bxd3 14. Qxd3 Rfd8 15. Qc2 Rac8 16. Rc1 a6 17. a4 Ncb4 18. Qc4 Rc6 19. Na3 Nb6 20. Qc3 f6 21. Qb3+ Qf7 22. Qxf7+ Kxf7 23. Bc3 g5 *
+
+
+[Event "Opening Book (Master's book PRO analysed): Van't Kruijis Opening"]
+[Site "https://lichess.org/study/4xUHF3cp/bc3H6IiL"]
+[Result "*"]
+[UTCDate "2020.07.08"]
+[UTCTime "16:01:02"]
+[Variant "Standard"]
+[ECO "A15"]
+[Opening "Polish Opening: King's Indian Variation, Sokolsky Attack"]
+[Annotator "https://lichess.org/@/SaiChess15"]
+
+1. e3 Nf6 2. Nf3 g6 3. b4?! { Inaccuracy. d4 was best. } (3. d4 Bg7 4. c4 O-O 5. Be2 c5 6. d5 d6 7. O-O e6) 3... Bg7 4. Bb2 O-O 5. c4 d6 6. d4 Nbd7?! { Inaccuracy. e5 was best. } (6... e5 7. a3 exd4 8. Nxd4 a5 9. b5 Ne4 10. Qc2 Re8 11. Be2) 7. Be2 e5 8. O-O e4 9. Nfd2 Re8 10. Nc3 Nf8 11. Qc2 Bf5 12. Rfc1 h5 13. b5?! { Inaccuracy. a4 was best. } (13. a4 c6 14. Qb3 d5 15. Ba3 Ne6 16. h3 Rc8 17. Rab1 g5 18. Nf1 a6 19. b5 axb5) 13... h4?! { Inaccuracy. Ne6 was best. } (13... Ne6 14. Nf1 h4 15. h3 c5 16. bxc6 bxc6 17. Rab1 c5 18. dxc5 Nxc5 19. Nb5 a6 20. Nd4) 14. h3 N8h7 15. Bf1 Ng5 16. Qd1 Qd7 17. a4?! { Inaccuracy. Nd5 was best. } (17. Nd5 c6 18. Nxf6+ Bxf6 19. a4 Rac8 20. Rcb1 Bg7 21. d5 cxd5 22. Bxg7 Kxg7 23. cxd5 Qe7) 17... Bh6?! { Inaccuracy. c5 was best. } (17... c5) 18. a5 Nxh3+? { Mistake. a6 was best. } (18... a6 19. bxa6) 19. gxh3 Bxh3 20. Bxh3 Qxh3 21. Qf1 Qf5 22. Nd5 Nxd5 23. cxd5 Re7 24. b6 axb6 25. axb6 Rxa1 *
+
+
+[Event "Opening Book (Master's book PRO analysed): Mieses Opening"]
+[Site "https://lichess.org/study/4xUHF3cp/v509D1sS"]
+[Result "*"]
+[UTCDate "2020.07.09"]
+[UTCTime "03:50:18"]
+[Variant "Standard"]
+[ECO "A06"]
+[Opening "Zukertort Opening: Old Indian Attack"]
+[Annotator "https://lichess.org/@/SaiChess15"]
+
+1. d3 d5 2. Nf3 Nf6 3. Nbd2 c5 4. e4 Nc6 5. g3 g6 6. Bg2 Bg7 7. O-O O-O 8. Re1?! { Inaccuracy. c3 was best. } (8. c3 e5 9. exd5 Nxd5 10. Re1 Qc7 11. Nb3 b6 12. d4 exd4) 8... e5?! { Inaccuracy. dxe4 was best. } (8... dxe4) 9. exd5 Nxd5 10. Nc4 Re8?! { Inaccuracy. f6 was best. } (10... f6) 11. a4? { Mistake. Ng5 was best. } (11. Ng5 Bf8) 11... h6 12. a5 Bf5 13. Nfd2 Be6 14. c3 Rb8 15. Qa4 Qc7 16. Ne4 b5 17. axb6 axb6 18. Ned6 Red8 19. Nb5 Qd7 20. Na7 Nxa7 21. Qxa7 Qe8 22. Bd2 Kh7 23. f4?! { Inaccuracy. h3 was best. } (23. h3 Rd7) 23... exf4 24. Bxd5 Rxd5 25. Bxf4 Rbd8 *
+
+
+[Event "Opening Book (Master's book PRO analysed): Anderssen Opening"]
+[Site "https://lichess.org/study/4xUHF3cp/xBQQijf9"]
+[Result "*"]
+[UTCDate "2020.07.09"]
+[UTCTime "03:51:43"]
+[Variant "Standard"]
+[ECO "A00"]
+[Opening "Anderssen Opening"]
+[Annotator "https://lichess.org/@/SaiChess15"]
+
+1. a3 d5 2. Nf3 Nf6 3. d4 e6 4. Bf4 c5 5. e3 Nc6 6. Nc3 a6 7. h3 Bd6 8. dxc5 Bxc5 9. Bd3 Qe7?! { Inaccuracy. O-O was best. } (9... O-O 10. O-O) 10. e4 d4 11. Ne2 e5 12. Bg5 h6 13. Bd2 Be6 14. Ng3 Ba7 15. Qe2 Nd7 16. Nh5?! { Inaccuracy. O-O was best. } (16. O-O) 16... Kf8 17. b4 Nb6?! { Inaccuracy. g6 was best. } (17... g6 18. Ng3 b5 19. c4 dxc3 20. Bxc3 f6 21. Nf1 Kg7 22. Ne3 Nb6 23. Rc1 Rhd8 24. O-O) 18. O-O g6 19. Ng3 Kg7?! { Inaccuracy. Na4 was best. } (19... Na4 20. Bc4 Bxc4 21. Qxc4 Kg7 22. Rfb1 Nc3 23. Bxc3 dxc3 24. b5 Nd4 25. b6 Nxf3+ 26. gxf3) 20. Nh2? { Mistake. a4 was best. } (20. a4 Bb8) 20... Bb8? { Mistake. h5 was best. } (20... h5 21. Rfb1) 21. Rae1 Qd7? { Mistake. f6 was best. } (21... f6 22. Nf3 Qf7 23. Nh4 Re8 24. f4 exf4 25. Bxf4 Ne5 26. Qf2 Nbc4 27. Ne2 Rd8 28. Bxc4) 22. Qf3?? { Blunder. f4 was best. } (22. f4) 22... Nc4 23. Bc1 Nd6? { Mistake. f6 was best. } (23... f6) 24. Ng4?! { Inaccuracy. Qe2 was best. } (24. Qe2 Nb5 25. f4 exf4 26. Bxf4 f6 27. Bxb8 Raxb8 28. e5 f5 29. Bxb5 axb5 30. Qxb5 Qd5) 24... Bxg4 25. hxg4 Qe7 *
