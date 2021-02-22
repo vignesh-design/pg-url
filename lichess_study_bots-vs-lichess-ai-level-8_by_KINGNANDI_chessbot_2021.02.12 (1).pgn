@@ -1,0 +1,1127 @@
+[Event "Casual Classical game"]
+[Site "https://lichess.org/p835A4O7"]
+[Date "2019.08.31"]
+[White "AttackingOrDefending"]
+[Black "lichess AI level 8"]
+[Result "1-0"]
+[WhiteElo "2158"]
+[WhiteTitle "BOT"]
+[TimeControl "900+15"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+[UTCDate "2021.02.12"]
+[UTCTime "05:49:33"]
+[Variant "Standard"]
+[ECO "C42"]
+[Opening "Russian Game"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 { C42 Petrov's Defense } 3... Qe7 4. d4 Nc6 5. Nc3 Nxe5 6. dxe5 Qxe5 7. f4 Qe7?! { Inaccuracy. Qe6 was best. } (7... Qe6 8. Qd4 b6 9. Bc4 Bc5 10. Qd3 Qe7 11. Bd2 Bb7 12. O-O-O) 8. Qe2 d6 9. Bd2 c6 10. h3 g6 11. g4 Bg7 12. O-O-O h5 13. g5 Nd7 14. Kb1 O-O 15. f5 Be5 16. Qf3 b5 17. Ne2 Nc5 18. Bg2 a5 19. Nf4 Qe8?? { Blunder. gxf5 was best. } (19... gxf5) 20. Nxh5 gxh5 21. Qxh5 Ne6? { Mistake. Bh8 was best. } (21... Bh8 22. Rhf1) 22. f6 Bb7 23. Bf3 d5?! { Checkmate is now unavoidable. c5 was best. } (23... c5 24. Rhg1) 24. Bg4 Nf4 25. Qh6 Bxf6 26. gxf6 Ne6 27. Bxe6 a4 28. Qg7# { White wins by checkmate. } 1-0
+
+
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/rU1ljTYb"]
+[Date "2020.09.14"]
+[White "lichess AI level 8"]
+[Black "AndScacs1"]
+[Result "0-1"]
+[BlackElo "2441"]
+[BlackTitle "BOT"]
+[TimeControl "300+1"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+[UTCDate "2021.02.12"]
+[UTCTime "05:49:33"]
+[Variant "Standard"]
+[ECO "C65"]
+[Opening "Ruy Lopez: Berlin Defense"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 { C65 Ruy Lopez: Berlin Defense } 4. Bxc6 dxc6 5. d3 Bd6 6. O-O Qe7 7. h3 Be6 8. Be3? { (0.29 → -1.14) Mistake. c4 was best. } (8. c4 O-O 9. Be3 Bc5 10. Qe2 Nd7 11. Nc3 f6 12. Rad1 Bb4) 8... h6 9. c4 g5 10. Qb3? { (-1.22 → -2.43) Mistake. d4 was best. } (10. d4 O-O-O 11. dxe5 Bxe5 12. Nbd2 Bf4 13. Bxf4 gxf4 14. Qe2 Nh7 15. Kh2 Ng5 16. Rad1 Qb4) 10... O-O-O 11. Qc2? { (-2.10 → -3.75) Mistake. Qa4 was best. } (11. Qa4 g4 12. hxg4 Bxg4 13. Nbd2 a6 14. c5 Bxc5 15. Bxc5 Qxc5 16. Rfc1 Qe7 17. Qa5 Rxd3) 11... g4 12. hxg4 Bxg4 13. Nh2 Rhg8 14. Nxg4?! { (-3.42 → -4.72) Inaccuracy. c5 was best. } (14. c5 Bh3) 14... Nxg4 15. Nd2 Qh4 16. Nf3 Qh5 17. Rab1?! { (-5.79 → -8.36) Inaccuracy. c5 was best. } (17. c5 Be7) 17... Rg6 18. c5 Rf6 19. Rfe1 Rxf3 20. cxd6 Rg8 21. Bc5 Rh3 22. g3 Nxf2 23. d7+ Kxd7 24. Qxf2 Rgxg3+ 25. Qxg3 Rxg3+ 26. Kf1 Qf3+ 27. Bf2 Rh3 28. a3 Rh1# { Black wins by checkmate. } 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/ZfvBwdG8"]
+[Date "2020.09.23"]
+[White "lichess AI level 8"]
+[Black "ChthonicMonster"]
+[Result "0-1"]
+[BlackElo "3422"]
+[BlackTitle "BOT"]
+[TimeControl "60+1"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+[UTCDate "2021.02.12"]
+[UTCTime "05:49:33"]
+[Variant "Standard"]
+[ECO "C77"]
+[Opening "Ruy Lopez: Morphy Defense, Anderssen Variation"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 { C77 Ruy Lopez: Morphy Defense, Anderssen Variation } 5... Bc5 6. Bxc6 dxc6 7. O-O Bd6 8. h3 Qe7 9. Nbd2? { (0.31 → -0.86) Mistake. c4 was best. } (9. c4 Be6) 9... g5 10. a3?! { (-0.48 → -1.51) Inaccuracy. d4 was best. } (10. d4 g4) 10... g4 11. hxg4 Bxg4 12. Nc4 O-O-O 13. b4?! { (-1.32 → -1.94) Inaccuracy. Ne3 was best. } (13. Ne3 Rhg8 14. Bd2 Bc5 15. Bb4 Bxb4 16. axb4 Qxb4 17. Qd2 Qd6 18. Nh2 Bd7 19. Rfb1 Nh5) 13... Rdg8 14. Ne3 Qe6 15. Bb2? { (-1.09 → -2.23) Mistake. Kh2 was best. } (15. Kh2 Nh5 16. Rh1 f5 17. exf5 Qf6 18. Nxg4 Rxg4 19. Kg1 e4 20. dxe4 Rhg8 21. Rxh5 Qxa1) 15... h5 16. c4 c5 17. Rc1?! { (-2.21 → -3.28) Inaccuracy. Kh1 was best. } (17. Kh1 cxb4) 17... h4 18. Kh1? { (-2.77 → -4.68) Mistake. Kh2 was best. } (18. Kh2 Nh5 19. Rg1 Nf4 20. Rb1 f6 21. Bc1 Bh3 22. Nd5 Nxg2 23. Be3 Nxe3 24. Rxg8+ Rxg8) 18... Nh5 19. Rg1?! { (-3.34 → -4.38) Inaccuracy. Kh2 was best. } (19. Kh2 Kb8) 19... f5 20. exf5 Bxf5 21. Nxf5?? { (-3.92 → -13.36) Blunder. Re1 was best. } (21. Re1 Nf4 22. Nxe5 Bxe5 23. Nxf5 Qxf5 24. Rxe5 Qg6 25. Qf1 Nxd3 26. Re2 Nxc1 27. Bxc1 cxb4) 21... Qxf5 22. Rc2?! { (-13.07 → Mate in 9) Checkmate is now unavoidable. Ng5 was best. } (22. Ng5 Ng3+ 23. Kh2 Qf4 24. Qf3 Nf1+ 25. Kh3 Qh2+ 26. Kg4 Qxg1 27. Bxe5 Bxe5 28. Rxf1 Qxf1) 22... Ng3+ 23. Kh2 Qf4 24. Bc1 h3 25. Rh1 Ne2+ 26. g3 Rxg3 27. Rg1 Rg2+ 28. Kh1 Qxf3 29. Qxe2 Rxg1+ 30. Kxg1 Qg2# { Black wins by checkmate. } 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/TvGQM0QX"]
+[Date "2019.11.07"]
+[White "Xerus_1"]
+[Black "lichess AI level 8"]
+[Result "1-0"]
+[WhiteElo "2475"]
+[WhiteTitle "BOT"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+[UTCDate "2021.02.12"]
+[UTCTime "05:49:33"]
+[Variant "Standard"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 { B30 Sicilian Defense: Nyezhmetdinov-Rossolimo Attack } 3... e6 4. Nc3 Nd4 5. O-O a6 6. Bd3 Nxf3+ 7. Qxf3 Bd6?! { Inaccuracy. Ne7 was best. } (7... Ne7 8. b3 Ng6 9. Bb2 Be7 10. Qh5 Nf4 11. Qe5 Ng6) 8. Qh3 Qc7 9. Be2 Ne7 10. d3 Be5 11. Nd1 d5 12. f4 Bd4+ 13. Kh1 c4 14. e5 b5?! { Inaccuracy. Bd7 was best. } (14... Bd7 15. dxc4) 15. c3 Bb6 16. d4 O-O?! { (0.79 → 1.33) Inaccuracy. b4 was best. } (16... b4 17. Ne3) 17. Ne3 b4?! { Inaccuracy. Bd7 was best. } { (0.99 → 1.61) Inaccuracy. Nf5 was best. } (17... Nf5 18. g4)  (17... Bd7 18. Bd1) 18. Bd1 h6? { Mistake. f6 was best. } { (1.62 → 2.62) Inaccuracy. f5 was best. } (18... f5 19. exf6 Rxf6 20. Bc2 Rh6 21. Qf3 Rf6 22. Qh5 g6 23. Qh4 Rf8 24. Ng4 Nf5 25. Bxf5)  (18... f6 19. exf6) 19. Bc2 Bd7?? { Blunder. Nf5 was best. } { (2.42 → 5.61) Blunder. Nf5 was best. } (19... Nf5 20. g4 (20. Ng4)) 20. Ng4 b3 21. axb3 cxb3?! { Inaccuracy. Rfe8 was best. } { (5.36 → 9.83) Inaccuracy. Nf5 was best. } (21... Nf5 22. Nf6+ Kh8 23. Nxd7 Qxd7 24. g4 Nxd4 25. cxd4 Bxd4 26. Rd1 Bb6 27. bxc4 Qc6 28. Qd3)  (21... Rfe8 22. bxc4) 22. f5 exf5 23. Nf6+ gxf6 24. exf6 Qc4?? { Checkmate is now unavoidable. Bxd4 was best. } { (15.44 → Mate in 6) Checkmate is now unavoidable. h5 was best. } (24... h5 25. Qxh5)  (24... Bxd4 25. cxd4) 25. Bg5 h5 26. Qxh5 Qxf1+ 27. Rxf1 Bxd4 28. Qh6 Bxf6 29. Bxf6 d4 30. Qh8# { White wins by checkmate. } 1-0
+
+
+[Event "Casual Classical game"]
+[Site "https://lichess.org/Az7CrDjY"]
+[Date "2020.12.25"]
+[White "XXIstCentury"]
+[Black "lichess AI level 8"]
+[Result "1-0"]
+[WhiteElo "2165"]
+[WhiteTitle "BOT"]
+[TimeControl "9000+0"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+[UTCDate "2021.02.12"]
+[UTCTime "05:49:33"]
+[Variant "Standard"]
+[ECO "C11"]
+[Opening "French Defense: Steinitz Variation, Boleslavsky Variation"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 { C11 French Defense: Steinitz Variation, Boleslavsky Variation } 7... Qb6 8. Na4 Qa5+ 9. c3 cxd4 10. b4 Nxb4 11. cxb4 Bxb4+ 12. Bd2 Bxd2+ 13. Nxd2 O-O 14. Bd3 b5 15. Nb2 Nb6 16. O-O Nc4 17. Bxh7+ Kxh7 18. Qh5+ Kg8 19. Nf3 f6 20. Nh4 f5 21. Rf3 Ne3 22. Ng6 Re8 23. Rh3 Qc3 24. Ne7+ Kf8 25. Qg5 Kf7 26. Rh7 Rg8 27. Nxg8 Qc5 28. Qxg7+ Ke8 29. Nf6+ Kd8 30. Rh8+ Qf8 31. Rxf8# { White wins by checkmate. } 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/oMxcGUPn"]
+[Date "2021.01.05"]
+[White "Houdini-6"]
+[Black "lichess AI level 8"]
+[Result "1-0"]
+[WhiteElo "2527"]
+[WhiteTitle "BOT"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+[UTCDate "2021.02.12"]
+[UTCTime "05:49:33"]
+[Variant "Standard"]
+[ECO "C19"]
+[Opening "French Defense: Winawer Variation, Poisoned Pawn Variation"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 { C19 French Defense: Winawer Variation, Poisoned Pawn Variation } 7... O-O 8. Bd3 c4 9. Bh6 Ng6 10. Bxg6 fxg6 11. Be3 Nc6 12. h4 Qe8 13. h5 gxh5 14. Rxh5 Ne7 15. Kd2 Qg6 16. Rg5 Qf7 17. Qh3 Nf5 18. Ne2 h6 19. Rh1 Qe7 20. Rg6 Qf7 21. Nf4 Bd7 22. g4 Nxe3 23. Qxh6 Qxg6 24. Qxg6 Rxf4 25. Rh7 Rxf2+ 26. Kxe3 Rf3+ 27. Kxf3 Rf8+ 28. Kg3 Rf7 29. Qh5 Kf8 30. Rh8+ Ke7 31. Qg5+ Rf6 32. Qxg7+ Rf7 33. Qg5+ Rf6 34. Qxf6# { White wins by checkmate. } 1-0
+
+
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/vGjjcVmW"]
+[Date "2020.11.17"]
+[White "YoBot_v2"]
+[Black "lichess AI level 8"]
+[Result "1-0"]
+[WhiteElo "2487"]
+[WhiteTitle "BOT"]
+[TimeControl "300+10"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+[UTCDate "2021.02.12"]
+[UTCTime "05:49:33"]
+[Variant "Standard"]
+[ECO "C19"]
+[Opening "French Defense: Winawer Variation, Poisoned Pawn Variation"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 { C19 French Defense: Winawer Variation, Poisoned Pawn Variation } 7... O-O 8. Bd3 c4 9. Bh6 Ng6 10. Bxg6 fxg6 11. Be3 Nc6 12. h4 Qe8 13. h5 gxh5 14. Rxh5 Ne7 15. Kd2 Qg6 16. Rg5 Qf7 17. Qh3 Nf5 18. Ne2 h6 19. Rh1 Kh8 20. Nf4 Bd7 21. Rg6 Kg8 22. g4 Ne7 23. Rg5 Rfc8 24. Qxh6 Kf8 25. Qh7 Qg8 26. Rh6 Qxh7 27. Rxh7 Ke8 28. Rgxg7 Kd8 29. Nxe6+ Bxe6 30. Rxe7 Rc7 31. Rxc7 Bg8 32. Bg5+ Ke8 33. Rhe7+ Kd8 34. Rg7+ Ke8 35. Rxg8# { White wins by checkmate. } 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/AElOTSCE"]
+[Date "2020.04.06"]
+[White "Corvus-1"]
+[Black "lichess AI level 8"]
+[Result "1-0"]
+[WhiteElo "2724"]
+[WhiteTitle "BOT"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+[UTCDate "2021.02.12"]
+[UTCTime "05:49:33"]
+[Variant "Standard"]
+[ECO "D38"]
+[Opening "Queen's Gambit Declined: Ragozin Defense"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Bb4 { D38 Queen's Gambit Declined: Ragozin Defense } 5. Bg5 O-O 6. Qb3 Bxc3+ 7. Qxc3 Nbd7 8. cxd5 exd5 9. e3 h6 10. Bh4 g5 11. Bg3 c5 12. Nd2 Qb6 13. dxc5 Nxc5 14. Be5 Nfe4 15. Nxe4 Nxe4 16. Qa3 Re8 17. Bd4 Qd6 18. Bb5 Qxa3 19. bxa3 Rf8 20. Be2 Be6 21. f3 Nd6 22. Bf6 Nc4 23. g4 Nxa3 24. Kf2 Nc2 25. Rad1 d4 26. exd4 Rfe8 27. h4 Ne3 28. hxg5 Bf5 29. gxf5 Re6 30. fxe6 Nf5 31. e7 Re8 32. Rdg1 h5 33. Rxh5 Ng7 34. Rgh1 Nxh5 35. Rxh5 a6 36. Rh8# { White wins by checkmate. } 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/y6FCbqAD"]
+[Date "2019.08.14"]
+[White "lichess AI level 8"]
+[Black "fougade"]
+[Result "0-1"]
+[BlackElo "2959"]
+[BlackTitle "BOT"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+[UTCDate "2021.02.12"]
+[UTCTime "05:49:33"]
+[Variant "Standard"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+
+1. e4 e6 2. Nf3 { C00 French Defense: Knight Variation } 2... d5 3. exd5 exd5 4. d4 Nf6 5. Bd3 Bd6 6. O-O O-O 7. c4 dxc4 8. Bxc4 Nc6 9. Nc3 h6 10. Re1 Re8 11. Be3 a6 12. a3 Bf5 13. h3 Qd7 14. Rc1 Rab8 15. b4 Rbd8 16. Qb3?? { (0.00 → -2.07) Blunder. Bf1 was best. } (16. Bf1 b5) 16... Bxh3 17. Bxf7+ Kh8 18. gxh3?! { (-1.86 → -2.47) Inaccuracy. Nh4 was best. } (18. Nh4 Qg4 19. Bxe8 Rxe8 20. Bf4 Bxf4 21. Rxe8+ Nxe8 22. Re1 Nd6 23. Nd5 Qxh4 24. Qxh3 Qxh3) 18... Qxh3 19. Bxe8 Rxe8 20. b5?? { (-2.35 → -5.75) Blunder. Bf4 was best. } (20. Bf4 Rxe1+) 20... Rf8 21. bxc6? { (-4.48 → -8.89) Mistake. Nd5 was best. } (21. Nd5) 21... Ng4 22. Qc2 Rxf3 23. Bf4 Rxf4 24. f3 Ne5 25. Re4?! { (-21.43 → Mate in 15) Checkmate is now unavoidable. Nd5 was best. } (25. Nd5 Nxf3+) 25... Qg3+ 26. Qg2 Nxf3+ 27. Kf1 Nh4+ 28. Ke2 Qxg2+ 29. Kd3 Rf3+ 30. Kc4?! { (-71.28 → Mate in 7) Checkmate is now unavoidable. Re3 was best. } (30. Re3 Rxe3+) 30... Qb2 31. Re5 Bxe5 32. cxb7 Rxc3+ 33. Kd5 Qxb7+ 34. Ke6 Qc8+ 35. Kf7 Qd7+ 36. Kf8 Ng6# { Black wins by checkmate. } 0-1
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/8lvE9tG5"]
+[Date "2019.08.09"]
+[White "high_five"]
+[Black "lichess AI level 8"]
+[Result "1-0"]
+[WhiteElo "1500"]
+[WhiteTitle "BOT"]
+[TimeControl "-"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+[UTCDate "2021.02.12"]
+[UTCTime "05:49:33"]
+[Variant "Standard"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined: Vienna Variation"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 Bb4+ { D30 Queen's Gambit Declined: Vienna Variation } 5. Nc3 Nbd7 6. cxd5 exd5 7. e3 h6 8. Bh4 Bxc3+ 9. bxc3 O-O 10. Be2 g5 11. Bg3 Ne4 12. c4 Ndf6 13. O-O c6 14. Rc1 Nxg3 15. hxg3 Bg4 16. Bd3 dxc4 17. Bxc4 Qd7 18. Qb3 Bxf3 19. gxf3 Kg7 20. Rfd1 Rad8 21. Qb2 Qe7 22. Bb3 Rc8 23. Rc5 Rcd8 24. Re5 Qb4 25. e4 Kh7 26. Rf5 Ng8 27. f4 Ne7 28. Rf6 gxf4 29. e5 Kg7 30. Qe2 Ng6 31. Qh5 Qe7 32. gxf4 c5 33. f5 c4 34. Bxc4 Rc8 35. Bxf7 Rxf7 36. Qxg6+ Kh8 37. Rxf7 Qg5+ 38. Qxg5 hxg5 39. f6 Rf8 40. Rxf8+ Kh7 41. e6 g4 42. f7 Kg6 43. Rg8+ Kh6 44. Kg2 g3 45. Rh1# { White wins by checkmate. } 1-0
+
+
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/9qPhCpe6"]
+[Date "2020.11.09"]
+[White "ChessBot13920"]
+[Black "lichess AI level 8"]
+[Result "1-0"]
+[WhiteElo "2503"]
+[WhiteTitle "BOT"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+[UTCDate "2021.02.12"]
+[UTCTime "05:49:33"]
+[Variant "Standard"]
+[ECO "C11"]
+[Opening "French Defense: Steinitz Variation, Boleslavsky Variation"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 { C11 French Defense: Steinitz Variation, Boleslavsky Variation } 7... Be7 8. a3 O-O 9. Qd2 a6 10. Be2 b5 11. O-O Bb7 12. Nd1 Qc7 13. c3 c4 14. Bf2 Na5?! { (0.83 → 1.56) Inaccuracy. f6 was best. } (14... f6 15. Ne3 fxe5 16. fxe5 Qd8 17. Bd1 a5 18. Ng4 b4 19. axb4 axb4 20. Rxa8 Qxa8 21. Ng5) 15. Qe1 Nb3 16. Rb1 Qd8 17. Ne3 f5 18. Bd1 Bc6 19. Bh4 a5?! { (1.29 → 2.13) Inaccuracy. Bxh4 was best. } (19... Bxh4) 20. g4 g6 21. Qg3 Kh8 22. Rf2 Bxh4 23. Nxh4 b4 24. Nxg6+ hxg6 25. gxf5 Rxf5 26. Nxf5 exf5 27. Bc2 Qg8? { (3.03 → 4.78) Mistake. Qe7 was best. } (27... Qe7 28. Rg2) 28. Rg2 Qh7 29. Qg5 Rf8?! { (4.34 → 6.09) Inaccuracy. Re8 was best. } (29... Re8 30. Re1) 30. Re1 Qh5?! { (5.85 → 8.18) Inaccuracy. bxc3 was best. } (30... bxc3 31. bxc3) 31. Qe7 Qh7 32. Qd6 Ba4 33. Re3 Rg8 34. Rgg3 Qf7 35. Bxf5 Nf8 36. Rh3+ Nh7 37. Be6 Qg7 38. f5 Nxd4?! { (15.15 → Mate in 10) Checkmate is now unavoidable. Be8 was best. } (38... Be8 39. f6) 39. cxd4 Be8 40. f6 Qa7 41. Qb6 Rg7 42. Qd8 Rg8 43. Bxg8 Kxg8 44. Rxh7 Qc5 45. Qxe8+ Qf8 46. Qxg6+ Qg7 47. Qxg7# { White wins by checkmate. } 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/w1KFt4zT"]
+[Date "2019.07.30"]
+[White "NoobPwnFTW"]
+[Black "lichess AI level 8"]
+[Result "1-0"]
+[WhiteElo "2555"]
+[WhiteTitle "BOT"]
+[TimeControl "60+1"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+[UTCDate "2021.02.12"]
+[UTCTime "05:49:33"]
+[Variant "Standard"]
+[ECO "A00"]
+[Opening "Van Geet Opening"]
+
+1. Nc3 { A00 Van Geet Opening } 1... d5 2. e3 e5 3. d4 e4 4. f3 Nf6 5. Nge2 h5 6. fxe4 dxe4 7. b3 c6 8. Ng3 Bb4 9. Bd2 Ng4 10. Ngxe4 Qh4+ 11. g3 Qe7 12. Qe2 f5 13. h3 fxe4 14. hxg4 Bxg4 15. Qxg4 hxg4 16. Rxh8+ Kd7 17. Bg2 a5 18. Nxe4 a4 19. c3 Ba3 20. b4 Kc7 21. c4 Bxb4 22. c5 Bxd2+ 23. Kxd2 Qf7 24. Bf1 Qd5 25. Nc3 Qd7 26. Bd3 b6 27. cxb6+ Kb7 28. Ne4 Ra5 29. Rf1 a3 30. Rff8 Na6 31. Rf7 Qxf7 32. Nd6+ Kxb6 33. Nxf7 Ra4 34. Ra8 Kb7 35. Rxa6 Rxa6 36. Bxa6+ Kxa6 37. e4 c5 38. e5 Kb5 39. e6 Kc6 40. d5+ Kxd5 41. e7 Ke4 42. e8=Q+ Kf3 43. Qe2+ Kxg3 44. Ke3 Kh3 45. Kf4 g3 46. Ng5+ Kh4 47. Qg4# { White wins by checkmate. } 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/qQ6kuqub"]
+[Date "2020.05.21"]
+[White "lichess AI level 8"]
+[Black "CubeOfRubik"]
+[Result "0-1"]
+[BlackElo "2583"]
+[BlackTitle "BOT"]
+[TimeControl "60+1"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+[UTCDate "2021.02.12"]
+[UTCTime "05:49:33"]
+[Variant "Standard"]
+[ECO "C69"]
+[Opening "Ruy Lopez: Exchange Variation, Alapin Gambit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 h5 { C69 Ruy Lopez: Exchange Variation, Alapin Gambit } 7. d3 Qf6 8. Nbd2 Ne7 9. b3 Ng6 10. a3 Nf4 11. Bb2 Bd6 12. Kh2 O-O-O 13. Qe1 Qe6 14. Rg1 f6 15. Qe3 Bxh3 16. Kh1 Bg4 17. Qa7 Bxf3 18. Nxf3 g5 19. d4 exd4 20. Bxd4 h4 21. e5 g4 22. Be3 fxe5 23. Bxf4 exf4 24. Nd4 Qf7 25. Rad1 h3 26. Qa8+ Kd7 27. Qxb7 Qd5 28. Qxc6+ Qxc6 29. Nxc6 Kxc6 30. Rd3 Rde8 31. g3 fxg3 32. fxg3 Rhf8 33. Rd2 Bc5 34. Rb1 Bf2 35. Rf1 Bxg3 36. Rg1 Re1 37. Rxe1 Bxe1 38. Rd1 Rf1+ 39. Kh2 Bg3+ 40. Kxg3 Rxd1 41. b4 Rg1+ 42. Kf4 h2 43. Kg5 h1=Q 44. b5+ Kd6 45. Kg6 Ke6 46. c4 Qh8 47. bxa6 Qg8+ 48. Kh6 Rh1# { Black wins by checkmate. } 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/lmHse8Mh"]
+[Date "2020.09.06"]
+[White "ZeroThink-01"]
+[Black "lichess AI level 8"]
+[Result "1-0"]
+[WhiteElo "2544"]
+[WhiteTitle "BOT"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+[UTCDate "2021.02.12"]
+[UTCTime "05:49:33"]
+[Variant "Standard"]
+[ECO "C65"]
+[Opening "Ruy Lopez: Classical Variation, Zukertort Gambit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 5. c3 { C65 Ruy Lopez: Classical Variation, Zukertort Gambit } 5... Nxe4 6. Qe2 Bxf2+ 7. Kh1 d5 8. d3 Ng3+ 9. hxg3 Bxg3 10. Bg5 f6 11. Bh4 Bxh4 12. Nxh4 O-O 13. Bxc6 bxc6 14. Nd2 f5 15. g3 Qd6 16. Rae1 e4 17. dxe4 dxe4 18. Qe3 Be6 19. Kg1 Rad8?! { (0.76 → 1.37) Inaccuracy. a5 was best. } (19... a5 20. Nb3) 20. Nb3 Bxb3?! { Inaccuracy. Qe5 was best. } (20... Qe5 21. Nd4) 21. axb3 Qe5 22. b4 g6 23. Kh2 Rd5 24. Ng2 a5 25. bxa5 Rxa5 26. Rd1 Qe7 27. Rd4 Rd5 28. Rxd5 cxd5 29. b4 d4?! { Inaccuracy. c6 was best. } { (1.23 → 1.96) Inaccuracy. Ra8 was best. } (29... Ra8 30. Qd4 Qd6 31. Nf4 Ra2+ 32. Kg1 c6 33. b5 cxb5 34. Rb1 Ra4 35. Qxd5+ Qxd5 36. Nxd5)  (29... c6 30. Qd2 Qf6 31. b5 d4 32. cxd4 cxb5 33. Nf4 Rc8 34. Rf2 Qc6 35. Qa2+ Kh8 36. d5) 30. Qxd4 Rd8 31. Qc4+ Qf7 32. Qe2 Qb3 33. Nf4 Qxc3 34. Qa2+ Kh8 35. Kh3 Qd2 36. Qa5 Qd7?! { Inaccuracy. Qd6 was best. } (36... Qd6 37. Rc1) 37. Rc1 Rc8?? { Blunder. Qg7 was best. } { (2.52 → 5.48) Blunder. Qg7 was best. } (37... Qg7 38. Qa2 e3 39. Qe6 g5 40. Nh5 Qd4 41. Qxf5 Qd7 42. Qxd7 Rxd7 43. Kg4 e2 44. Kf3) 38. b5 Kg8?! { Inaccuracy. g5 was best. } { (4.21 → 9.46) Mistake. g5 was best. } (38... g5 39. b6 c6 40. Qe5+ Kg8 41. b7 Qxb7 42. Qe6+ Kh8 43. Nh5 Rf8 44. Qe5+ Kg8 45. Nf6+) 39. b6 c6 40. Qa2+ Kh8 41. Ra1 Rb8 42. Qf2 Kg7? { Checkmate is now unavoidable. e3 was best. } (42... e3 43. Qxe3) 43. Ra7 Rb7 44. Qb2+ Kh6?! { Checkmate is now unavoidable. Kf7 was best. } { (28.72 → Mate in 8) Checkmate is now unavoidable. Kf7 was best. } (44... Kf7 45. Qh8) 45. Rxb7 Qxb7 46. Qf6 Qa6 47. Kh4 Qa1 48. Qxa1 g5+ 49. Kh3 gxf4 50. Qf6+ Kh5 51. gxf4 e3 52. Qg5# { White wins by checkmate. } 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/YHd4TS4t"]
+[Date "2020.06.02"]
+[White "Stockfishjs"]
+[Black "lichess AI level 8"]
+[Result "1-0"]
+[WhiteElo "2424"]
+[WhiteTitle "BOT"]
+[TimeControl "60+1"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+[UTCDate "2021.02.12"]
+[UTCTime "05:49:33"]
+[Variant "Standard"]
+[ECO "C81"]
+[Opening "Ruy Lopez: Open, Howell Attack"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 a6 6. Ba4 b5 7. Bb3 d5 8. dxe5 Be6 9. Qe2 { C81 Ruy Lopez: Open Variations, Howell Attack } 9... Be7 10. Rd1 Nc5 11. Nc3 Nxb3 12. cxb3 O-O 13. Be3 Qd7 14. Rd2 Nd8 15. h3 c6 16. Ne4 Re8 17. Nc5 Bxc5 18. Bxc5 Bf5 19. Qe3 a5 20. Rc1 Bg6 21. Nd4 Ne6 22. f4 Be4 23. Ne2 Bg6 24. Qf2 h6 25. Be3 Bh7 26. g4 Rac8 27. f5 Ng5 28. Bxg5 hxg5 29. Qe3 Qe7 30. Nd4 c5 31. Nf3 d4 32. Qe4 f6 33. Re2 Kh8 34. h4 gxh4 35. Rh2 c4 36. Nxh4 Kg8 37. Qd5+ Qf7 38. e6 Rxe6 39. fxe6 Qe7 40. Nf5 Bxf5 41. Qxf5 g6 42. Qxg6+ Qg7 43. Qe4 Re8 44. Kf2 f5 45. gxf5 Kf8 46. Rch1 d3 47. Rh8+ Ke7 48. R1h7 Qxh7 49. Rxh7+ Kf6 50. Rf7+ Kg5 51. Kg3 Rh8 52. Qg4+ Kh6 53. Qh4# { White wins by checkmate. } 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/J8AhxyGK"]
+[Date "2020.08.27"]
+[White "BOTzillarades"]
+[Black "lichess AI level 8"]
+[Result "1-0"]
+[WhiteElo "2945"]
+[WhiteTitle "BOT"]
+[TimeControl "30+1"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+[UTCDate "2021.02.12"]
+[UTCTime "05:49:33"]
+[Variant "Standard"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Blackburne Gambit"]
+
+1. e4 d5 2. exd5 c6 3. dxc6 Nxc6 { B01 Scandinavian Defense: Blackburne Gambit } 4. Nc3 Nf6 5. Nf3 e5 6. Bb5 Bd6 7. d4 exd4 8. Qxd4 O-O 9. Bxc6 bxc6 10. O-O Be6 11. Re1 Re8 12. Bg5 Be7 13. Ne4 c5 14. Qe5 Nxe4 15. Bxe7 Qxe7 16. Rxe4 f6 17. Qc3 Qd6 18. Rae1 Bf7 19. Nd2 Rxe4 20. Nxe4 Qb6 21. Nxc5 Rc8 22. b4 Bxa2 23. h3 Bf7 24. Re7 Rc7 25. Rxc7 Qxc7 26. Qf3 Qd8 27. Qg4 Qe8 28. Qe4 Qd8 29. Qd3 Qe8 30. Ne4 h5 31. Qd4 Qc6 32. c3 Bd5 33. f3 Qb6 34. Qxb6 axb6 35. Kf2 Bxe4 36. fxe4 Kf7 37. Ke3 Ke6 38. Kd4 Kd6 39. c4 Kc6 40. c5 Kd7 41. Kd5 bxc5 42. bxc5 h4 43. c6+ Ke7 44. Kc5 Ke6 45. c7 Kd7 46. Kb6 Ke6 47. c8=Q+ Kf7 48. Kc5 Kg6 49. Qf5+ Kf7 50. Kd5 Ke7 51. Qh7 Kf7 52. Kd6 f5 53. exf5 Kf8 54. Ke6 g6 55. Qh8# { White wins by checkmate. } 1-0
+
+
+[Event "Opening Book (Master's book PRO analysed): Sicilian Defence"]
+[Site "https://lichess.org/study/4xUHF3cp/tPxnq3hJ"]
+[Result "*"]
+[Annotator "https://lichess.org/@/SaiChess15"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:19:24"]
+[Variant "Standard"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. f3 Be7 9. Qd2 O-O 10. O-O-O Nbd7 11. g4 b5 12. g5 b4 13. Ne2 Ne8 14. f4 a5 15. f5 a4 16. Nbd4 exd4 17. Nxd4 b3 18. Kb1 bxc2+ 19. Nxc2 Bb3 20. axb3 axb3 21. Na3 Ne5 22. h4 Ra4 23. Bd4 Qa8 24. Qe3?! { Inaccuracy. Qg2 was best. } (24. Qg2 Kh8 25. h5 Rg8 26. Rh3 Rb4 27. Rg3 f6 28. g6 h6 29. Bc3 Ra4 30. Bb5 Qxe4+) 24... Kh8 25. Bb5 Ra5 *
+
+
+[Event "Opening Book (Master's book PRO analysed): Nimzo Indian: Rubinstien"]
+[Site "https://lichess.org/study/4xUHF3cp/aOMtfDCC"]
+[Result "*"]
+[Annotator "https://lichess.org/@/SaiChess15"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:19:24"]
+[Variant "Standard"]
+[ECO "E15"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Check Variation, Intermezzo Line"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. Bc3 d5 9. Ne5 Nfd7 10. Nxd7 Nxd7 11. Nd2 O-O 12. O-O Rc8 13. e4 b5 14. Re1 bxc4 15. bxc4 dxc4 16. Qa4 Bb5 17. Qc2 Re8 18. a4 Ba6 19. Rad1 Bf8 20. Nf1 Rb8 21. Ne3 Bb4 22. Bxb4 Rxb4 23. d5 Ne5 24. dxe6 Nd3 25. exf7+ Kxf7 *
+
+
+[Event "Opening Book (Master's book PRO analysed): Reti Opening"]
+[Site "https://lichess.org/study/4xUHF3cp/8dln6c5u"]
+[Result "*"]
+[Annotator "https://lichess.org/@/SaiChess15"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:19:24"]
+[Variant "Standard"]
+[ECO "E97"]
+[Opening "King's Indian Defense: Orthodox Variation, Bayonet Attack, Sokolov's Line"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 9. b4 Nh5 10. Re1 f5 11. Ng5 Nf6 12. Bf3 c6 13. Be3 h6 14. Ne6 Bxe6 15. dxe6 fxe4 16. Nxe4 Nxe4 17. Bxe4 d5 18. cxd5 cxd5 19. Bc2 b6 20. Qg4 e4 21. Rad1?! { Inaccuracy. Rac1 was best. } (21. Rac1 Rc8) 21... Qc7 22. Bb3 Rf5 23. Re2 h5 24. Qh4 Bf6 25. Qg3 Be5 26. Qh4 *
+
+
+[Event "Opening Book (Master's book PRO analysed): English Opening"]
+[Site "https://lichess.org/study/4xUHF3cp/hUYLGgnU"]
+[Result "*"]
+[Annotator "https://lichess.org/@/SaiChess15"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:19:24"]
+[Variant "Standard"]
+[ECO "E97"]
+[Opening "King's Indian Defense: Orthodox Variation, Bayonet Attack, Sokolov's Line"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 9. b4 Nh5 10. Re1 f5 11. Ng5 Nf6 12. Bf3 c6 13. Be3 h6 14. Ne6 Bxe6 15. dxe6 fxe4 16. Nxe4 Nxe4 17. Bxe4 d5 18. cxd5 cxd5 19. Bc2 b6 20. Qg4 e4 21. Rad1 Qc7 22. Bb3 Rf5 23. Re2 h5 24. Qh4 Bf6 25. Qg3 Be5 26. Qh4 *
+
+
+[Event "Opening Book (Master's book PRO analysed): Hungarian Opening"]
+[Site "https://lichess.org/study/4xUHF3cp/2g7Xp43M"]
+[Result "*"]
+[Annotator "https://lichess.org/@/SaiChess15"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:19:24"]
+[Variant "Standard"]
+[ECO "A07"]
+[Opening "King's Indian Attack: Yugoslav Variation"]
+
+1. g3 d5 2. Bg2 Nf6 3. Nf3 c6 4. O-O Bg4 5. d3 Nbd7 6. Nbd2 e5 7. e4 dxe4 8. dxe4 Bc5 9. h3 Bh5 10. Qe1 O-O 11. Nc4 Re8 12. a4 Qc7?! { Inaccuracy. b5 was best. } (12... b5 13. Na5 Qc7 14. b4 Bb6 15. Nh4 a6 16. Nb3 c5 17. Nxc5 Nxc5 18. bxc5 Bxc5 19. Nf5) 13. Nh4 Bf8 14. Bg5 Re6?! { Inaccuracy. Rad8 was best. } (14... Rad8 15. g4) 15. a5 Rd8 16. Be3 b5 17. axb6 axb6 18. Ra2?! { Inaccuracy. f4 was best. } (18. f4 b5) 18... Ne8?! { Inaccuracy. b5 was best. } (18... b5 19. Qa5 Qb8 20. Ba7 Qa8 21. Ne3 Nc5 22. Rfa1 Ncxe4 23. g4 Bg6 24. Nxg6 hxg6 25. h4) 19. g4 Bg6 20. Qc3 Qb8 21. Rd1 b5 22. Nxg6 hxg6 23. Ra7 bxc4 24. Raxd7 Rxd7 25. Rxd7 Nd6 *
+
+
+[Event "Opening Book (Master's book PRO analysed): Nimzo-Larsen Attack"]
+[Site "https://lichess.org/study/4xUHF3cp/rWlwFIqy"]
+[Result "*"]
+[Annotator "https://lichess.org/@/SaiChess15"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:19:24"]
+[Variant "Standard"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Modern Variation"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. Bb5 Bd6 5. Na3 Na5?! { Inaccuracy. e4 was best. } (5... e4 6. Nc4 Be7 7. Bxc6 bxc6 8. Ne2 a5 9. O-O a4 10. d3) 6. Be2 a6 7. c4 O-O 8. Nc2 Re8 9. d3 b5 10. Nf3 bxc4 11. dxc4 e4 12. Nfd4 Be5 13. c5 Bb7?! { Inaccuracy. Nb7 was best. } (13... Nb7 14. b4) 14. b4 Nc6 15. Nxc6 Bxc6 16. Bxe5 Rxe5 17. a4?! { Inaccuracy. Nd4 was best. } (17. Nd4 Nd5 18. a3 Qg5 19. O-O Nc3 20. Qc2 Nxe2+ 21. Nxe2 Bb5 22. Rfd1 Bd3 23. Qb2 a5) 17... d6?! { Inaccuracy. a5 was best. } (17... a5) 18. Nd4 Bb7 19. c6 Bc8 20. h3 h5?! { Inaccuracy. Nd5 was best. } (20... Nd5 21. Qd2 Qg5 22. g3 Ne7 23. Qb2 Qf6 24. h4 Rb8 25. Rb1 h6 26. Qd2 Rd5 27. Qc2) 21. g3?! { Inaccuracy. O-O was best. } (21. O-O Nd5 22. Qb3 Qg5 23. Kh2 Qg6 24. Bc4 Nb6 25. g3 a5 26. b5 Be6 27. Bxe6 fxe6) 21... h4 22. g4 Nh7 23. Kf1 Ng5 24. Kg2 g6 25. Qb3 Kg7 *
+
+
+[Event "Opening Book (Master's book PRO analysed): Bird Opening"]
+[Site "https://lichess.org/study/4xUHF3cp/78SSQYCs"]
+[Result "*"]
+[Annotator "https://lichess.org/@/SaiChess15"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:19:24"]
+[Variant "Standard"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+
+1. f4 d5 2. Nf3 g6 3. g3 Bg7 4. Bg2 Nf6 5. O-O O-O 6. d3 c5 7. Qe1 Nc6 8. e4 dxe4 9. dxe4 e5 10. Nc3 Nd4 11. fxe5 Ng4 12. Nxd4 cxd4 13. Nd5 Nxe5 14. Qb4 Re8 15. Kh1 b6 16. Bf4 Ba6 17. Rf2 Rc8 18. Bxe5 Bxe5 19. Qa4 Bb7 20. Qxa7 Bxd5 21. exd5 Re7 22. Qa4 Qd6 23. Re2 Rec7 24. Rae1 f6 25. Qb3 Rc4 *
+
+
+[Event "Opening Book (Master's book PRO analysed): Van Geet Opening"]
+[Site "https://lichess.org/study/4xUHF3cp/pTaPzxrs"]
+[Result "*"]
+[Annotator "https://lichess.org/@/SaiChess15"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:19:24"]
+[Variant "Standard"]
+[ECO "A00"]
+[Opening "Van Geet Opening"]
+
+1. Nc3 d5 2. e4 d4 3. Nce2 e5 4. Ng3 Be6 5. Nf3 f6 6. Bb5+ c6 7. Ba4 Na6 8. Bb3 Bxb3 9. axb3 d3 10. O-O Nb4 11. cxd3 Nxd3 12. Ne1 Nh6 13. Qc2 Nxc1 14. Qxc1 Qb6 15. Qc4 O-O-O 16. Nf3 Kb8 17. Ra4 g5 18. d3 Bc5 19. b4 Be7 20. Rd1 Rd7 21. Qe6 Rhd8 22. h3 Ng8 23. d4 exd4 24. b5?! { Inaccuracy. e5 was best. } (24. e5) 24... Rd6 25. Qf7?! { Inaccuracy. Qf5 was best. } (25. Qf5 d3) 25... cxb5 *
+
+
+[Event "Opening Book (Master's book PRO analysed): Polish Opening"]
+[Site "https://lichess.org/study/4xUHF3cp/zqI5H19b"]
+[Result "*"]
+[Annotator "https://lichess.org/@/SaiChess15"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:19:24"]
+[Variant "Standard"]
+[ECO "A00"]
+[Opening "Polish Opening"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. c4 O-O 5. Nf3 d5 6. e3 c5 7. a3 Ba5 8. cxd5 Nxd5 9. Qc2 Nc6 10. Bb2 Qe7 11. Be2 g6 12. O-O Bf5 13. Bd3 Bxd3 14. Qxd3 Rfd8 15. Qc2 Rac8 16. Rc1 a6 17. a4 Ncb4 18. Qc4 Rc6 19. Na3 Nb6 20. Qc3 f6 21. Qb3+ Qf7 22. Qxf7+ Kxf7 23. Bc3 g5 *
+
+
+[Event "Opening Book (Master's book PRO analysed): Van't Kruijis Opening"]
+[Site "https://lichess.org/study/4xUHF3cp/bc3H6IiL"]
+[Result "*"]
+[Annotator "https://lichess.org/@/SaiChess15"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:19:25"]
+[Variant "Standard"]
+[ECO "A15"]
+[Opening "Polish Opening: King's Indian Variation, Sokolsky Attack"]
+
+1. e3 Nf6 2. Nf3 g6 3. b4?! { Inaccuracy. d4 was best. } (3. d4 Bg7 4. c4 O-O 5. Be2 c5 6. d5 d6 7. O-O e6) 3... Bg7 4. Bb2 O-O 5. c4 d6 6. d4 Nbd7?! { Inaccuracy. e5 was best. } (6... e5 7. a3 exd4 8. Nxd4 a5 9. b5 Ne4 10. Qc2 Re8 11. Be2) 7. Be2 e5 8. O-O e4 9. Nfd2 Re8 10. Nc3 Nf8 11. Qc2 Bf5 12. Rfc1 h5 13. b5?! { Inaccuracy. a4 was best. } (13. a4 c6 14. Qb3 d5 15. Ba3 Ne6 16. h3 Rc8 17. Rab1 g5 18. Nf1 a6 19. b5 axb5) 13... h4?! { Inaccuracy. Ne6 was best. } (13... Ne6 14. Nf1 h4 15. h3 c5 16. bxc6 bxc6 17. Rab1 c5 18. dxc5 Nxc5 19. Nb5 a6 20. Nd4) 14. h3 N8h7 15. Bf1 Ng5 16. Qd1 Qd7 17. a4?! { Inaccuracy. Nd5 was best. } (17. Nd5 c6 18. Nxf6+ Bxf6 19. a4 Rac8 20. Rcb1 Bg7 21. d5 cxd5 22. Bxg7 Kxg7 23. cxd5 Qe7) 17... Bh6?! { Inaccuracy. c5 was best. } (17... c5) 18. a5 Nxh3+? { Mistake. a6 was best. } (18... a6 19. bxa6) 19. gxh3 Bxh3 20. Bxh3 Qxh3 21. Qf1 Qf5 22. Nd5 Nxd5 23. cxd5 Re7 24. b6 axb6 25. axb6 Rxa1 *
+
+
+[Event "Opening Book (Master's book PRO analysed): Mieses Opening"]
+[Site "https://lichess.org/study/4xUHF3cp/v509D1sS"]
+[Result "*"]
+[Annotator "https://lichess.org/@/SaiChess15"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:19:25"]
+[Variant "Standard"]
+[ECO "A06"]
+[Opening "Zukertort Opening: Old Indian Attack"]
+
+1. d3 d5 2. Nf3 Nf6 3. Nbd2 c5 4. e4 Nc6 5. g3 g6 6. Bg2 Bg7 7. O-O O-O 8. Re1?! { Inaccuracy. c3 was best. } (8. c3 e5 9. exd5 Nxd5 10. Re1 Qc7 11. Nb3 b6 12. d4 exd4) 8... e5?! { Inaccuracy. dxe4 was best. } (8... dxe4) 9. exd5 Nxd5 10. Nc4 Re8?! { Inaccuracy. f6 was best. } (10... f6) 11. a4? { Mistake. Ng5 was best. } (11. Ng5 Bf8) 11... h6 12. a5 Bf5 13. Nfd2 Be6 14. c3 Rb8 15. Qa4 Qc7 16. Ne4 b5 17. axb6 axb6 18. Ned6 Red8 19. Nb5 Qd7 20. Na7 Nxa7 21. Qxa7 Qe8 22. Bd2 Kh7 23. f4?! { Inaccuracy. h3 was best. } (23. h3 Rd7) 23... exf4 24. Bxd5 Rxd5 25. Bxf4 Rbd8 *
+
+
+[Event "Opening Book (Master's book PRO analysed): Anderssen Opening"]
+[Site "https://lichess.org/study/4xUHF3cp/xBQQijf9"]
+[Result "*"]
+[Annotator "https://lichess.org/@/SaiChess15"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:19:25"]
+[Variant "Standard"]
+[ECO "A00"]
+[Opening "Anderssen Opening"]
+
+1. a3 d5 2. Nf3 Nf6 3. d4 e6 4. Bf4 c5 5. e3 Nc6 6. Nc3 a6 7. h3 Bd6 8. dxc5 Bxc5 9. Bd3 Qe7?! { Inaccuracy. O-O was best. } (9... O-O 10. O-O) 10. e4 d4 11. Ne2 e5 12. Bg5 h6 13. Bd2 Be6 14. Ng3 Ba7 15. Qe2 Nd7 16. Nh5?! { Inaccuracy. O-O was best. } (16. O-O) 16... Kf8 17. b4 Nb6?! { Inaccuracy. g6 was best. } (17... g6 18. Ng3 b5 19. c4 dxc3 20. Bxc3 f6 21. Nf1 Kg7 22. Ne3 Nb6 23. Rc1 Rhd8 24. O-O) 18. O-O g6 19. Ng3 Kg7?! { Inaccuracy. Na4 was best. } (19... Na4 20. Bc4 Bxc4 21. Qxc4 Kg7 22. Rfb1 Nc3 23. Bxc3 dxc3 24. b5 Nd4 25. b6 Nxf3+ 26. gxf3) 20. Nh2? { Mistake. a4 was best. } (20. a4 Bb8) 20... Bb8? { Mistake. h5 was best. } (20... h5 21. Rfb1) 21. Rae1 Qd7? { Mistake. f6 was best. } (21... f6 22. Nf3 Qf7 23. Nh4 Re8 24. f4 exf4 25. Bxf4 Ne5 26. Qf2 Nbc4 27. Ne2 Rd8 28. Bxc4) 22. Qf3?? { Blunder. f4 was best. } (22. f4) 22... Nc4 23. Bc1 Nd6? { Mistake. f6 was best. } (23... f6) 24. Ng4?! { Inaccuracy. Qe2 was best. } (24. Qe2 Nb5 25. f4 exf4 26. Bxf4 f6 27. Bxb8 Raxb8 28. e5 f5 29. Bxb5 axb5 30. Qxb5 Qd5) 24... Bxg4 25. hxg4 Qe7 *
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 020"]
+[Black "A Third Mate in Four"]
+[Result "1-0"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:21:27"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[FEN "8/4N2k/4K3/6B1/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Kf7 Kh8 2. Ng6+ Kh7 3. Nf8+ Kh8 4. Bf6# { 1-0 White wins by checkmate. } 1-0
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 021"]
+[Black "The Lock"]
+[Result "1-0"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:21:27"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[FEN "4k3/8/3K4/4N1B1/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Kc7 Kf8 2. Kd7 Kg7 3. Ke6 { 1-0 Black resigns. } (3. Ke7 Kh7 4. Kf6 (4. Kf7 Kh8 5. Nc6 Kh7 6. Ne7 Kh8 7. Ng6+ Kh7 8. Nf8+ Kh8 9. Bf6#) 4... Kh8 5. Nc6 Kh7 (5... Kg8)) 1-0
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 022"]
+[Black "Transition to the Lock"]
+[Result "1-0"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:21:27"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[FEN "8/4Nk2/3K4/8/8/4B3/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Bg5 Ke8 2. Nc6 (2. Ng6 Kf7 3. Nh4 Ke8 4. Ke6 Kf8 5. Bf6 Ke8 6. Nf5 Kf8 7. Be7+ Kg8 8. Kf6 Kh7 9. Kf7 Kh8 10. Bg5 (10. Kg6 Kg8 11. Nh6+ Kh8 12. Bf6#)) 2... Kf7 3. Kd7 { 1-0 Black resigns. } 1-0
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 024"]
+[Black "The Drive"]
+[Result "1-0"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:21:27"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[FEN "k7/8/2K5/3N4/8/4B3/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Kb6 Kb8 2. Bf4+ Ka8 (2... Kc8 3. Kc6 Kd8 4. Bc7+ Ke8 5. Nf4 (5. Kd6 Kf8 6. Ke6 Ke8 7. Bb6 Kf8 8. Nc7 (8. Nf4 { [%csl Gg5,Gg6] } 8... Ke8 9. Nh5 Kf8 10. Bc7 Ke8 11. Ng7+ Kf8 12. Kf6 { [%csl Gd8,Ge8] } 12... Kg8 13. Bd6 { [%csl Gf8] } 13... Kh7 { [%csl Gh6] } 14. Nf5 Kg8 15. Ne7+ (15. Kg6 Kh8 16. Bb4 Kg8 17. Nh6+ Kh8 18. Nf7+ (18. Bc3#)) 15... Kh7 16. Bf4 Kh8) 8... Kg7) 5... Ke7 6. Bd6+ (6. Be5 Kd8)) 3. Be3 { 1-0 Black resigns. } 1-0
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 023"]
+[Black "The King Shift"]
+[Result "1-0"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:21:27"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[FEN "4k3/B7/2K5/3N4/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Bd4 (1. Bc5 Kf7 2. Nf4) 1... Kf7 2. Nf4 Ke7 3. Kc7 Kf7 4. Kd7 Kf8 5. Nd5 Kf7 6. Nf4 Kf8 7. Ke6 Ke8 8. Bf6 Kf8 9. Nd5 (9. Bh4 Ke8 10. Nh5 Kf8 11. Be7+ { [%csl Gf7,Gg7] } 11... Kg8 12. Kf6 Kh7 13. Kf7 Kh6 14. Nf4 Kh7 15. Bg5 Kh8 16. Ng6+ Kh7 17. Nf8+ Kh8 18. Bf6#) 9... Ke8 10. Nc7+ Kf8 11. Be7+ { 1-0 Black resigns. } (11. Be5 Kg8) 1-0
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 025"]
+[Black "Perpetual Check"]
+[Result "1/2-1/2"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:21:27"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[FEN "8/8/8/8/8/1K6/7q/3Q2qk w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Qf3+ Qhg2 2. Qh5+ Q1h2 3. Qd1+ Qhg1 4. Qh5+ Q2h2 5. Qd5+ Qgg2 6. Qd1+ Qhg1 7. Qh5+ Q2h2 8. Qf3+ { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 026"]
+[Black "Forced Mate"]
+[Result "1-0"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:21:27"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[FEN "8/8/8/8/1K6/8/3Q4/qk6 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Kb3 { 1-0 Black resigns. } 1-0
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 027"]
+[Black "X-Ray Attack"]
+[Result "1-0"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:21:27"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[FEN "4Q3/8/3K1k2/8/8/8/8/6q1 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Qf8+ Kg6 2. Qg8+ { 1-0 Black resigns. } 1-0
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 028"]
+[Black "Stalemate Sacrifice"]
+[Result "1/2-1/2"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:21:27"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[FEN "8/8/8/8/8/5qk1/7R/6K1 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Rh3+ Kxh3 { 1/2-1/2 Draw by stalemate. } 1/2-1/2
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 029"]
+[Black "Perpetual Attack"]
+[Result "1/2-1/2"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:21:27"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[FEN "8/8/8/8/8/4q2k/6R1/5K2 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Rh2+ Kg3 (1... Kg4 2. Rg2+ Kh5 3. Rh2+) 2. Rg2+ Kf3 3. Rg3+ { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 030"]
+[Black "Philidor's Position"]
+[Result "1-0"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:21:27"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[FEN "4Q3/6rk/5K2/8/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Qe5 Kh8 2. Qb8+ Kh7 3. Qe8 Ra7 4. Qh5+ Kg8 5. Qg4+ Kh7 6. Qh3+ Kg8 7. Qg2+ { 1-0 Black resigns. } (7. Qg3+ Kf8 { [%csl Gb8] } (7... Kh8 8. Qb8+ { [%cal Gb8a7] })) 1-0
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 031"]
+[Black "From Edge to Edge"]
+[Result "1-0"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:21:27"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[FEN "2k5/r7/3K4/1Q6/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Qe8+ Kb7 2. Qd7+ Kb8 3. Qd8+ Kb7 4. Qc7+ Ka6 5. Qc6+ Ka5 { [%csl Gb5] } 6. Kc5 { [%csl Gb5] } 6... Rc7 7. Qxc7+ Ka4 8. Qg3 Ka5 9. Qa3# { 1-0 White wins by checkmate. } 1-0
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 032"]
+[Black "Double-Threat Queen"]
+[Result "1-0"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:21:27"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[FEN "3k4/3r4/4K3/2Q5/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Qb6+ Ke8 { [%cal Gb6c6,Gc6e8] } (1... Kc8 2. Qc6+ { [%cal Gc8d8] } 2... Kd8 { [%cal Gc6d7,Gc6a8,Ga8a7] } (2... Kb8 3. Qxd7 Ka8 4. Kd6 Kb8 5. Kc6 Ka8 6. Qb7#) 3. Qa8+ Kc7 4. Qa7+ Kc6 5. Qxd7+) 2. Qc6 Kf8 3. Qxd7 { 1-0 Black resigns. } 1-0
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 034"]
+[Black "Perpetual Attack 2"]
+[Result "1/2-1/2"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:21:27"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[FEN "8/8/6k1/8/8/1q6/5R2/K7 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Rg2+ Kf5 { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 033"]
+[Black "Dual Methods"]
+[Result "1-0"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:21:27"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[FEN "3k4/8/4K3/8/8/2Q5/8/3r4 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Qb3 Re1+ 2. Kd6 Kc8 (2... Re2 { [%csl Gb8] })  (2... Ke8 { [%csl Gg8] }) 3. Qc3+ { 1-0 Black resigns. } 1-0
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 035"]
+[Black "The Right-Corner Draw"]
+[Result "1/2-1/2"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:21:27"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[FEN "7B/4r3/8/8/8/6k1/8/7K w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Bc3 { [%csl Ge1] } (1. Bd4 Rh7+ (1... Rd7 2. Be5+ Kf2 3. Bb8 Rh7+ 4. Bh2 Rg7 5. Be5 Rg1+ 6. Kh2 Rg5) 2. Kg1 Rd7 3. Be5+) 1... Rf7 2. Be5+ Kf3 3. Kg1 Rh7 4. Ba1 Rh3 5. Bb2 { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 036"]
+[Black "Pin and Win"]
+[Result "1-0"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:21:27"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[FEN "1k6/5b2/1K6/8/8/8/1R6/8 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Rf2 Be8 2. Rf8 Kc8 3. Rxe8+ { 1-0 Black resigns. } 1-0
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 037"]
+[Black "The Chase"]
+[Result "1-0"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:21:27"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[FEN "6k1/5R2/6K1/8/8/8/8/6b1 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Rf1 Bh2 2. Rf2 (2. Rh1 Bg3 3. Rh3 Bd6 4. Rd3 Bf8 5. Rd8 Kh8 6. Rxf8#) 2... Bg3 3. Rg2 Bh4 (3... Bf4 4. Rg4 Be5 5. Re4 Bd6 6. Re8+ Bf8 7. Rd8 Kh8 8. Rxf8#) 4. Re2 { 1-0 Black resigns. } 1-0
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 038"]
+[Black "Corner Drive"]
+[Result "1-0"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:21:27"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[FEN "4k3/3R4/1b1K4/8/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Re7+ (1. Ke6 Kf8 2. Rf7+ Kg8 3. Kf6 Bd4+ 4. Kg6 Bg1 5. Rf1 Bh2 6. Rh1 Bg3 7. Rh3 Bd6 8. Rd3 Bf8) 1... Kf8 2. Ke6 Kg8 3. Kf6 Bd4+ 4. Kg6 Bc5 5. Re8+ Bf8 6. Rd8 Kh8 7. Rxf8# { 1-0 White wins by checkmate. } 1-0
+
+
+[Event "Pandolfini's Endgame Course"]
+[Site "by Bruce Pandolfini"]
+[Date "????.??.??"]
+[White "Endgame 039"]
+[Black "Positional Draw"]
+[Result "1/2-1/2"]
+[Annotator "https://lichess.org/@/BirdmanA03"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:21:27"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[FEN "8/8/8/8/8/4k1B1/4r3/3K4 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Kc1 Kd3 2. Kb1 (2. Kd1 Kc3 3. Kc1) 2... Kc3 3. Ka1 Kb3 4. Kb1 { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lichess.org/J4rtsH3m"]
+[Date "2021.02.18"]
+[White "sp1cycaterpillar"]
+[Black "nihalsarin2004"]
+[Result "0-1"]
+[WhiteElo "2401"]
+[WhiteTitle "GM"]
+[BlackElo "2700"]
+[BlackTitle "GM"]
+[TimeControl "15+0"]
+[Termination "Normal"]
+[Annotator "https://lichess.org/@/KINGNANDI_chessbot"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:22:01"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Mikenas Variation"]
+
+1. e4 { [%clk 0:00:15] } 1... d6 { [%clk 0:00:15] } 2. d4 { [%clk 0:00:14] } 2... Nc6 { [%clk 0:00:15] } 3. f3 { [%clk 0:00:14] } 3... e5 { [%clk 0:00:14] } 4. d5 { [%clk 0:00:14] } 4... Nce7 { [%clk 0:00:14] } 5. Nc3 { [%clk 0:00:14] } 5... Nf6 { [%clk 0:00:13] } 6. Be3 { [%clk 0:00:14] } 6... Ng6 { [%clk 0:00:13] } 7. Qd2 { [%clk 0:00:14] } 7... Be7 { [%clk 0:00:13] } 8. h4 { [%clk 0:00:14] } 8... O-O { [%clk 0:00:13] } 9. h5 { [%clk 0:00:14] } 9... Nf4 { [%clk 0:00:13] } 10. h6 { [%clk 0:00:14] } 10... g6 { [%clk 0:00:12] } 11. g3 { [%clk 0:00:14] } 11... N4h5 { [%clk 0:00:12] } 12. g4 { [%clk 0:00:14] } 12... Ng3 { [%clk 0:00:11] } 13. Nge2 { [%clk 0:00:14] } 13... Nxh1 { [%clk 0:00:10] } 14. Bg2 { [%clk 0:00:14] } 14... c6 { [%clk 0:00:10] } 15. Bxh1 { [%clk 0:00:13] } 15... cxd5 { [%clk 0:00:10] } 16. g5 { [%clk 0:00:13] } 16... d4 { [%clk 0:00:09] } 17. gxf6 { [%clk 0:00:13] } 17... Bxf6 { [%clk 0:00:09] } 18. Nd5 { [%clk 0:00:12] } 18... dxe3 { [%clk 0:00:09] } 19. Qxe3 { [%clk 0:00:12] } 19... Bh4+ { [%clk 0:00:09] } 20. Kd1 { [%clk 0:00:11] } 20... Be6 { [%clk 0:00:09] } 21. f4 { [%clk 0:00:11] } 21... Bxd5 { [%clk 0:00:08] } 22. exd5 { [%clk 0:00:10] } 22... exf4 { [%clk 0:00:08] } 23. Qd4 { [%clk 0:00:09] } 23... Bf6 { [%clk 0:00:08] } 24. Qxf4 { [%clk 0:00:09] } 24... Re8 { [%clk 0:00:08] } 25. Rc1 { [%clk 0:00:08] } 25... Be5 { [%clk 0:00:08] } 26. Qf2 { [%clk 0:00:08] } 26... Qf6 { [%clk 0:00:07] } 27. Bf3 { [%clk 0:00:08] } 27... Qg5 { [%clk 0:00:06] } 28. c3 { [%clk 0:00:07] } 28... Qxh6 { [%clk 0:00:06] } 29. Kc2 { [%clk 0:00:06] } 29... Qg7 { [%clk 0:00:06] } 30. Rf1 { [%clk 0:00:06] } 30... Rac8 { [%clk 0:00:06] } 31. Bg2 { [%clk 0:00:06] } 31... b5 { [%clk 0:00:06] } 32. Qf3 { [%clk 0:00:06] } 32... b4 { [%clk 0:00:06] } 33. Kb1 { [%clk 0:00:06] } 33... bxc3 { [%clk 0:00:06] } 34. Nxc3 { [%clk 0:00:05] } 34... Bxc3 { [%clk 0:00:06] } 35. bxc3 { [%clk 0:00:05] } 35... Rxc3 { [%clk 0:00:04] } 36. Qxf7+ { [%clk 0:00:05] } 36... Qxf7 { [%clk 0:00:04] } 37. Rxf7 { [%clk 0:00:05] } 37... Kxf7 { [%clk 0:00:03] } 38. Kb2 { [%clk 0:00:05] } 38... Re2+ { [%clk 0:00:03] } 39. Kxc3 { [%clk 0:00:05] } 39... Rxg2 { [%clk 0:00:03] } 40. Kc4 { [%clk 0:00:04] } 40... Rxa2 { [%clk 0:00:03] } 41. Kb5 { [%clk 0:00:03] } 41... Rd2 { [%clk 0:00:03] } 42. Kc6 { [%clk 0:00:03] } 42... Rxd5 { [%clk 0:00:03] } 43. Kb7 { [%clk 0:00:03] } 43... h5 { [%clk 0:00:02] } 44. Kc8 { [%clk 0:00:03] } 44... Rc5+ { [%clk 0:00:02] } 45. Kd8 { [%clk 0:00:03] } 45... d5 { [%clk 0:00:02] } 46. Kd7 { [%clk 0:00:03] } 46... d4 { [%clk 0:00:02] } 47. Kd8 { [%clk 0:00:03] } 47... Rc3 { [%clk 0:00:01] } 48. Kd7 { [%clk 0:00:03] } 48... d3 { [%clk 0:00:01] } 49. Kd6 { [%clk 0:00:03] } 49... d2 { [%clk 0:00:01] } 50. Ke5 { [%clk 0:00:02] } 50... d1=Q { [%clk 0:00:01] } 51. Kf4 { [%clk 0:00:02] } 51... Rc2 { [%clk 0:00:01] } 52. Kg5 { [%clk 0:00:02] } 52... Re2 { [%clk 0:00:00] } 53. Kh6 { [%clk 0:00:02] } 53... Qe1 { [%clk 0:00:00] } 54. Kh7 { [%clk 0:00:02] } 54... Rf2 { [%clk 0:00:00] } 55. Kh6 { [%clk 0:00:02] } 55... Qe2 { [%clk 0:00:00] } 56. Kh7 { [%clk 0:00:02] } 56... Rf3 { [%clk 0:00:00] } 57. Kh6 { [%clk 0:00:02] } 57... Qe3+ { [%clk 0:00:00] } 58. Kh7 { [%clk 0:00:02] } 58... Rf4 { [%clk 0:00:00] } 59. Kh6 { [%clk 0:00:02] } 59... Qe4 { [%clk 0:00:00] } 60. Kh7 { [%clk 0:00:02] } 60... Rf5 { [%clk 0:00:00] } 61. Kh8 { [%clk 0:00:02] } 61... Qe5+ { [%clk 0:00:00] } 62. Kh7 { [%clk 0:00:02] } 62... Qf6 { [%clk 0:00:00] } 63. Kh6 { [%clk 0:00:01] } 63... Qg7# { 0-1 Black wins by checkmate. } { [%clk 0:00:00] } 0-1
+
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/oCOYMW2R"]
+[Date "2021.02.17"]
+[White "Zhigalko_Sergei"]
+[Black "whiplash12"]
+[Result "1-0"]
+[WhiteElo "3049"]
+[WhiteTitle "GM"]
+[BlackElo "2803"]
+[BlackTitle "GM"]
+[TimeControl "30+0"]
+[Termination "Normal"]
+[Annotator "https://lichess.org/@/KINGNANDI_chessbot"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:22:01"]
+[Variant "Standard"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+
+1. e4 { [%clk 0:00:30] } 1... d5 { [%clk 0:00:30] } 2. exd5 { [%clk 0:00:30] } 2... Qxd5 { [%clk 0:00:29] } 3. d4 { [%clk 0:00:29] } 3... Qd8 { [%clk 0:00:29] } 4. Nc3 { [%clk 0:00:29] } 4... g6 { [%clk 0:00:29] } 5. Nf3 { [%clk 0:00:28] } 5... Bg7 { [%clk 0:00:29] } 6. Bc4 { [%clk 0:00:28] } 6... Nf6 { [%clk 0:00:29] } 7. O-O { [%clk 0:00:28] } 7... O-O { [%clk 0:00:29] } 8. h3 { [%clk 0:00:28] } 8... c6 { [%clk 0:00:29] } 9. Re1 { [%clk 0:00:27] } 9... Nbd7 { [%clk 0:00:29] } 10. Bg5 { [%clk 0:00:27] } 10... Nb6 { [%clk 0:00:29] } 11. Bb3 { [%clk 0:00:27] } 11... Bf5 { [%clk 0:00:27] } 12. Qe2 { [%clk 0:00:26] } 12... Nfd5 { [%clk 0:00:27] } 13. Ne4 { [%clk 0:00:25] } 13... Bxe4 { [%clk 0:00:26] } 14. Qxe4 { [%clk 0:00:25] } 14... Nf6 { [%clk 0:00:25] } 15. Qh4 { [%clk 0:00:24] } 15... Qc7 { [%clk 0:00:24] } 16. c3 { [%clk 0:00:23] } 16... Rae8 { [%clk 0:00:23] } 17. Re2 { [%clk 0:00:23] } 17... Nbd7 { [%clk 0:00:23] } 18. Rae1 { [%clk 0:00:22] } 18... e6 { [%clk 0:00:22] } 19. Bf4 { [%clk 0:00:22] } 19... Qd8 { [%clk 0:00:21] } 20. Bd6 { [%clk 0:00:21] } 20... Nd5 { [%clk 0:00:19] } 21. Qxd8 { [%clk 0:00:21] } 21... Rxd8 { [%clk 0:00:19] } 22. Bxf8 { [%clk 0:00:21] } 22... Bxf8 { [%clk 0:00:18] } 23. Bxd5 { [%clk 0:00:21] } 23... cxd5 { [%clk 0:00:18] } 24. Ne5 { [%clk 0:00:21] } 24... Nb6 { [%clk 0:00:17] } 25. Nd3 { [%clk 0:00:20] } 25... Rc8 { [%clk 0:00:17] } 26. g3 { [%clk 0:00:20] } 26... Nc4 { [%clk 0:00:17] } 27. h4 { [%clk 0:00:20] } 27... b5 { [%clk 0:00:17] } 28. Kg2 { [%clk 0:00:20] } 28... a5 { [%clk 0:00:16] } 29. a3 { [%clk 0:00:19] } 29... a4 { [%clk 0:00:16] } 30. Ne5 { [%clk 0:00:18] } 30... Na5 { [%clk 0:00:16] } 31. h5 { [%clk 0:00:17] } 31... g5 { [%clk 0:00:15] } 32. Nf3 { [%clk 0:00:16] } 32... h6 { [%clk 0:00:15] } 33. Nh2 { [%clk 0:00:15] } 33... Kg7 { [%clk 0:00:14] } 34. f4 { [%clk 0:00:15] } 34... Bd6 { [%clk 0:00:14] } 35. fxg5 { [%clk 0:00:15] } 35... hxg5 { [%clk 0:00:14] } 36. Ng4 { [%clk 0:00:14] } 36... Nc4 { [%clk 0:00:13] } 37. Rf2 { [%clk 0:00:13] } 37... Rc7 { [%clk 0:00:11] } 38. Ne3 { [%clk 0:00:13] } 38... Nxb2 { [%clk 0:00:09] } 39. Rxb2 { [%clk 0:00:11] } 39... Bxa3 { [%clk 0:00:09] } 40. Rxb5 { [%clk 0:00:11] } 40... Rxc3 { [%clk 0:00:09] } 41. Re2 { [%clk 0:00:10] } 41... Rd3 { [%clk 0:00:09] } 42. Ra5 { [%clk 0:00:09] } 42... Bb2 { [%clk 0:00:09] } 43. Rxa4 { [%clk 0:00:09] } 43... Bxd4 { [%clk 0:00:09] } 44. Nf1 { [%clk 0:00:08] } 44... Bc3 { [%clk 0:00:08] } 45. Raa2 { [%clk 0:00:08] } 45... Rd2 { [%clk 0:00:08] } 46. Raxd2 { [%clk 0:00:07] } 46... Bxd2 { [%clk 0:00:07] } 47. Rxd2 { [%clk 0:00:07] } 47... e5 { [%clk 0:00:07] } 48. Rxd5 { [%clk 0:00:06] } 48... f5 { [%clk 0:00:07] } 49. Ne3 { [%clk 0:00:06] } 49... e4 { [%clk 0:00:07] } 50. Rxf5 { [%clk 0:00:06] } 50... g4 { [%clk 0:00:06] } 51. Rf4 { [%clk 0:00:05] } 51... Kh6 { [%clk 0:00:06] } 52. Rxg4 { [%clk 0:00:05] } 52... Kxh5 { [%clk 0:00:06] } 53. Rxe4 { [%clk 0:00:05] } 53... Kh6 { [%clk 0:00:06] } 54. Rf4 { [%clk 0:00:05] } 54... Kh7 { [%clk 0:00:06] } 55. Kf3 { [%clk 0:00:05] } 55... Kg6 { [%clk 0:00:05] } 56. Rg4+ { [%clk 0:00:05] } 56... Kf6 { [%clk 0:00:04] } 57. Kf4 { [%clk 0:00:05] } 57... Ke6 { [%clk 0:00:04] } 58. Rg5 { [%clk 0:00:05] } 58... Kd7 { [%clk 0:00:04] } 59. Rf5 { [%clk 0:00:05] } 59... Ke8 { [%clk 0:00:03] } 60. g4 { [%clk 0:00:05] } 60... Ke7 { [%clk 0:00:03] } 61. g5 { [%clk 0:00:05] } 61... Ke6 { [%clk 0:00:03] } 62. g6 { [%clk 0:00:05] } 62... Kd7 { [%clk 0:00:03] } 63. g7 { [%clk 0:00:05] } 63... Ke6 { [%clk 0:00:03] } 64. g8=Q+ { [%clk 0:00:05] } 64... Ke7 { [%clk 0:00:03] } 65. Qg6 { 1-0 Black resigns. } { [%clk 0:00:05] } 1-0
+
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/qXGq1Wc0"]
+[Date "2021.02.17"]
+[White "Bot_McBotface"]
+[Black "LioCT"]
+[Result "1-0"]
+[WhiteElo "2571"]
+[WhiteTitle "BOT"]
+[BlackElo "2527"]
+[BlackTitle "BOT"]
+[TimeControl "300+10"]
+[Termination "Normal"]
+[Annotator "https://lichess.org/@/KINGNANDI_chessbot"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:22:01"]
+[Variant "Standard"]
+[ECO "A67"]
+[Opening "Benoni Defense: Taimanov Variation"]
+
+1. d4 { [%clk 0:05:00] } 1... Nf6 { [%clk 0:05:00] } 2. c4 { [%clk 0:05:10] } 2... c5 { [%clk 0:05:10] } 3. d5 { [%clk 0:05:20] } 3... e6 { [%clk 0:05:20] } 4. Nc3 { [%clk 0:05:30] } 4... exd5 { [%clk 0:05:30] } 5. cxd5 { [%clk 0:05:40] } 5... d6 { [%clk 0:05:40] } 6. e4 { [%clk 0:05:50] } 6... g6 { [%clk 0:05:50] } 7. f4 { [%clk 0:06:00] } 7... Bg7 { [%clk 0:06:00] } 8. Bb5+ { [%clk 0:06:10] } 8... Nfd7 { [%clk 0:06:10] } 9. a4 { [%clk 0:06:02] } 9... Na6 { [%clk 0:05:21] } 10. Nf3 { [%clk 0:05:53] } 10... O-O { [%clk 0:05:26] } 11. O-O { [%clk 0:05:45] } 11... Nb4 { [%clk 0:05:30] } 12. Re1 { [%clk 0:05:37] } 12... a6 { [%clk 0:05:00] } 13. Bf1 { [%clk 0:05:29] } 13... Re8 { [%clk 0:05:09] } 14. h3 { [%clk 0:05:20] } 14... f5 { [%clk 0:05:13] } 15. Ng5 { [%clk 0:05:14] } 15... Nf8 { [%clk 0:05:02] } 16. e5 { [%clk 0:05:04] } 16... dxe5 { [%clk 0:04:58] } 17. fxe5 { [%clk 0:04:55] } 17... Rxe5 { [%clk 0:04:57] } 18. Rxe5 { [%clk 0:04:47] } 18... Bxe5 { [%clk 0:05:07] } 19. Nf3 { [%clk 0:04:39] } 19... Bf6 { [%clk 0:05:16] } 20. Be3 { [%clk 0:04:35] } 20... b6 { [%clk 0:03:30] } 21. Qd2 { [%clk 0:04:27] } 21... Bb7 { [%clk 0:03:39] } 22. Rd1 { [%clk 0:04:26] } 22... Qd6 { [%clk 0:03:34] } 23. Bf4 { [%clk 0:04:18] } 23... Qd7 { [%clk 0:03:43] } 24. Ne5 { [%clk 0:04:09] } 24... Qg7 { [%clk 0:03:29] } 25. Bh6 { [%clk 0:04:01] } 25... Qe7 { [%clk 0:03:35] } 26. Nc4 { [%clk 0:03:59] } 26... Qd8 { [%clk 0:02:59] } 27. Kh1 { [%clk 0:03:50] } 27... Ra7 { [%clk 0:03:04] } 28. a5 { [%clk 0:03:44] } 28... b5 { [%clk 0:02:51] } 29. Nb6 { [%clk 0:03:21] } 29... Be5 { [%clk 0:02:28] } 30. Bg5 { [%clk 0:03:12] } 30... Qb8 { [%clk 0:02:14] } 31. Be3 { [%clk 0:03:04] } 31... Bd6 { [%clk 0:02:14] } 32. Qf2 { [%clk 0:02:57] } 32... Qc7 { [%clk 0:02:23] } 33. Bxb5 { [%clk 0:02:49] } 33... Bg3 { [%clk 0:02:29] } 34. Qf3 { [%clk 0:02:42] } 34... Nc2 { [%clk 0:02:38] } 35. Bf2 { [%clk 0:02:35] } 35... Be5 { [%clk 0:02:47] } 36. Bc4 { [%clk 0:02:29] } 36... Bd6 { [%clk 0:02:33] } 37. Qd3 { [%clk 0:02:22] } 37... Nb4 { [%clk 0:02:36] } 38. Qd2 { [%clk 0:02:15] } 38... Bc8 { [%clk 0:02:03] } 39. Nca4 { [%clk 0:02:09] } 39... Nd7 { [%clk 0:02:11] } 40. Bg3 { [%clk 0:02:03] } 40... f4 { [%clk 0:02:01] } 41. Bxf4 { [%clk 0:01:57] } 41... Bxf4 { [%clk 0:02:02] } 42. d6+ { [%clk 0:01:51] } 42... Kg7 { [%clk 0:02:10] } 43. Qxf4 { [%clk 0:01:46] } 43... Qc6 { [%clk 0:02:08] } 44. Rf1 { [%clk 0:01:40] } 44... Bb7 { [%clk 0:01:57] } 45. Rf2 { [%clk 0:01:35] } 45... Ra8 { [%clk 0:01:53] } 46. Nxd7 { [%clk 0:01:30] } 46... Qxd7 { [%clk 0:01:46] } 47. Nxc5 { [%clk 0:01:26] } 47... Bxg2+ { [%clk 0:01:51] } 48. Rxg2 { [%clk 0:01:21] } 48... Qxh3+ { [%clk 0:00:25] } 49. Rh2 { [%clk 0:01:17] } 49... Rf8 { [%clk 0:00:32] } 50. Qe5+ { [%clk 0:01:27] } 50... Rf6 { [%clk 0:00:40] } 51. Qe7+ { [%clk 0:01:37] } 51... Kh6 { [%clk 0:00:48] } 52. Rxh3+ { [%clk 0:01:47] } 52... Kg5 { [%clk 0:00:56] } 53. Qe5+ { [%clk 0:01:57] } 53... Rf5 { [%clk 0:01:03] } 54. Ne6+ { [%clk 0:02:07] } 54... Kg4 { [%clk 0:01:13] } 55. Qg3# { 1-0 White wins by checkmate. } { [%clk 0:02:07] } 1-0
+
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/M6mcGYPh"]
+[Date "2021.02.17"]
+[White "RevolutionaryBot"]
+[Black "ResolutionBot"]
+[Result "1-0"]
+[WhiteElo "2898"]
+[WhiteTitle "BOT"]
+[BlackElo "2564"]
+[BlackTitle "BOT"]
+[TimeControl "45+0"]
+[Termination "Normal"]
+[Annotator "https://lichess.org/@/KINGNANDI_chessbot"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:22:01"]
+[Variant "Standard"]
+[ECO "C19"]
+[Opening "French Defense: Winawer Variation, Advance Variation"]
+
+1. e4 { [%clk 0:00:45] } 1... e6 { [%clk 0:00:45] } 2. d4 { [%clk 0:00:44] } 2... d5 { [%clk 0:00:44] } 3. Nc3 { [%clk 0:00:44] } 3... Bb4 { [%clk 0:00:43] } 4. e5 { [%clk 0:00:44] } 4... Ne7 { [%clk 0:00:42] } 5. a3 { [%clk 0:00:43] } 5... Bxc3+ { [%clk 0:00:40] } 6. bxc3 { [%clk 0:00:43] } 6... c5 { [%clk 0:00:40] } 7. a4 { [%clk 0:00:40] } 7... Nbc6 { [%clk 0:00:39] } 8. Nf3 { [%clk 0:00:38] } 8... Bd7 { [%clk 0:00:39] } 9. Be2 { [%clk 0:00:37] } 9... Qa5 { [%clk 0:00:38] } 10. O-O { [%clk 0:00:36] } 10... O-O { [%clk 0:00:38] } 11. Ba3 { [%clk 0:00:36] } 11... b6 { [%clk 0:00:36] } 12. Qd2 { [%clk 0:00:36] } 12... c4 { [%clk 0:00:35] } 13. Rfe1 { [%clk 0:00:32] } 13... Bc8 { [%clk 0:00:33] } 14. h4 { [%clk 0:00:32] } 14... Bb7 { [%clk 0:00:32] } 15. h5 { [%clk 0:00:31] } 15... h6 { [%clk 0:00:31] } 16. Nh4 { [%clk 0:00:31] } 16... Kh8 { [%clk 0:00:30] } 17. g4 { [%clk 0:00:30] } 17... Rfc8 { [%clk 0:00:27] } 18. f4 { [%clk 0:00:29] } 18... Rg8 { [%clk 0:00:26] } 19. f5 { [%clk 0:00:29] } 19... exf5 { [%clk 0:00:25] } 20. gxf5 { [%clk 0:00:28] } 20... Bc8 { [%clk 0:00:23] } 21. Bg4 { [%clk 0:00:28] } 21... Re8 { [%clk 0:00:22] } 22. Kh2 { [%clk 0:00:27] } 22... Rg8 { [%clk 0:00:21] } 23. Rg1 { [%clk 0:00:27] } 23... Kh7 { [%clk 0:00:21] } 24. Bh3 { [%clk 0:00:27] } 24... f6 { [%clk 0:00:20] } 25. exf6 { [%clk 0:00:24] } 25... gxf6 { [%clk 0:00:19] } 26. Ng6 { [%clk 0:00:24] } 26... b5 { [%clk 0:00:18] } 27. Bc1 { [%clk 0:00:24] } 27... Qc7+ { [%clk 0:00:18] } 28. Kh1 { [%clk 0:00:23] } 28... Rxg6 { [%clk 0:00:17] } 29. hxg6+ { [%clk 0:00:23] } 29... Kg8 { [%clk 0:00:17] } 30. Qxh6 { [%clk 0:00:23] } 30... Nxf5 { [%clk 0:00:16] } 31. Qh5 { [%clk 0:00:23] } 31... bxa4 { [%clk 0:00:16] } 32. Bf4 { [%clk 0:00:23] } 32... Qg7 { [%clk 0:00:15] } 33. Bxf5 { [%clk 0:00:22] } 33... Bxf5 { [%clk 0:00:14] } 34. Qxf5 { [%clk 0:00:21] } 34... Ne7 { [%clk 0:00:14] } 35. Qe6+ { [%clk 0:00:21] } 35... Kf8 { [%clk 0:00:13] } 36. Bd6 { [%clk 0:00:21] } 36... Ke8 { [%clk 0:00:13] } 37. Rae1 { [%clk 0:00:20] } 37... Rd8 { [%clk 0:00:12] } 38. Rg3 { [%clk 0:00:20] } 38... Rxd6 { [%clk 0:00:12] } 39. Qxd6 { [%clk 0:00:20] } 39... a3 { [%clk 0:00:12] } 40. Rh3 { [%clk 0:00:20] } 40... f5 { [%clk 0:00:11] } 41. Rxe7+ { [%clk 0:00:20] } 41... Qxe7 { [%clk 0:00:11] } 42. Rh8+ { [%clk 0:00:19] } 42... Qf8 { [%clk 0:00:11] } 43. Rxf8# { 1-0 White wins by checkmate. } { [%clk 0:00:19] } 1-0
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lichess.org/7MAbYRxH"]
+[Date "2021.02.18"]
+[White "nihalsarin2004"]
+[Black "sp1cycaterpillar"]
+[Result "1-0"]
+[WhiteElo "2700"]
+[WhiteTitle "GM"]
+[BlackElo "2401"]
+[BlackTitle "GM"]
+[TimeControl "15+0"]
+[Termination "Normal"]
+[Annotator "https://lichess.org/@/KINGNANDI_chessbot"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:22:01"]
+[Variant "Standard"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Speelsmet Gambit"]
+
+1. d4 { [%clk 0:00:15] } 1... c5 { [%clk 0:00:15] } 2. Nf3 { [%clk 0:00:15] } 2... cxd4 { [%clk 0:00:15] } 3. e3 { [%clk 0:00:15] } 3... e5 { [%clk 0:00:15] } 4. exd4 { [%clk 0:00:15] } 4... e4 { [%clk 0:00:15] } 5. Ne5 { [%clk 0:00:14] } 5... Nf6 { [%clk 0:00:14] } 6. Nc4 { [%clk 0:00:14] } 6... d5 { [%clk 0:00:14] } 7. Ne3 { [%clk 0:00:14] } 7... Be7 { [%clk 0:00:14] } 8. Nc3 { [%clk 0:00:14] } 8... O-O { [%clk 0:00:14] } 9. Be2 { [%clk 0:00:14] } 9... Nc6 { [%clk 0:00:14] } 10. O-O { [%clk 0:00:14] } 10... Be6 { [%clk 0:00:14] } 11. f3 { [%clk 0:00:13] } 11... exf3 { [%clk 0:00:13] } 12. Bxf3 { [%clk 0:00:13] } 12... Qb6 { [%clk 0:00:12] } 13. Ne2 { [%clk 0:00:13] } 13... Rac8 { [%clk 0:00:12] } 14. c3 { [%clk 0:00:13] } 14... Bd6 { [%clk 0:00:11] } 15. Ng3 { [%clk 0:00:13] } 15... Qc7 { [%clk 0:00:11] } 16. Ngf5 { [%clk 0:00:12] } 16... Bxf5 { [%clk 0:00:11] } 17. Nxf5 { [%clk 0:00:12] } 17... Bxh2+ { [%clk 0:00:11] } 18. Kh1 { [%clk 0:00:11] } 18... Bf4 { [%clk 0:00:11] } 19. Qe1 { [%clk 0:00:11] } 19... Bxc1 { [%clk 0:00:11] } 20. Qxc1 { [%clk 0:00:10] } 20... Rce8 { [%clk 0:00:10] } 21. Qg5 { [%clk 0:00:09] } 21... g6 { [%clk 0:00:10] } 22. Qxf6 { [%clk 0:00:08] } 22... gxf5 { [%clk 0:00:10] } 23. Bxd5 { [%clk 0:00:08] } 23... Qe7 { [%clk 0:00:09] } 24. Rxf5 { [%clk 0:00:08] } 24... Qxf6 { [%clk 0:00:08] } 25. Rxf6 { [%clk 0:00:08] } 25... Ne7 { [%clk 0:00:08] } 26. Bb3 { [%clk 0:00:07] } 26... Kg7 { [%clk 0:00:07] } 27. Raf1 { [%clk 0:00:07] } 27... Ng8 { [%clk 0:00:07] } 28. Rxf7+ { [%clk 0:00:07] } 28... Rxf7 { [%clk 0:00:07] } 29. Rxf7+ { [%clk 0:00:06] } 29... Kh6 { [%clk 0:00:06] } 30. Rxb7 { [%clk 0:00:06] } 30... Re1+ { [%clk 0:00:06] } 31. Kh2 { [%clk 0:00:05] } 31... Nf6 { [%clk 0:00:06] } 32. Rxa7 { [%clk 0:00:05] } 32... Kg5 { [%clk 0:00:05] } 33. Ra6 { [%clk 0:00:05] } 33... Ng4+ { [%clk 0:00:05] } 34. Kh3 { [%clk 0:00:03] } 34... Re3+ { [%clk 0:00:05] } 35. g3 { [%clk 0:00:03] } 35... Re2 { [%clk 0:00:04] } 36. Ra5+ { [%clk 0:00:03] } 36... Ne5 { [%clk 0:00:03] } 37. Rxe5+ { [%clk 0:00:03] } 37... Kf6 { [%clk 0:00:03] } 38. Rxe2 { [%clk 0:00:02] } 38... h5 { [%clk 0:00:03] } 39. Rf2+ { [%clk 0:00:02] } 39... Kg5 { [%clk 0:00:03] } 40. Rf4 { [%clk 0:00:02] } 40... Kh6 { [%clk 0:00:03] } 41. Rh4 { [%clk 0:00:02] } 41... Kg5 { [%clk 0:00:02] } 42. Rxh5+ { [%clk 0:00:02] } 42... Kf6 { [%clk 0:00:02] } 43. c4 { [%clk 0:00:01] } 43... Ke7 { [%clk 0:00:02] } 44. c5 { [%clk 0:00:01] } 44... Kf6 { [%clk 0:00:02] } 45. c6 { [%clk 0:00:01] } 45... Kg7 { [%clk 0:00:02] } 46. Kg4 { [%clk 0:00:01] } 46... Kf6 { [%clk 0:00:02] } 47. Rf5+ { [%clk 0:00:01] } 47... Kg7 { [%clk 0:00:01] } 48. Kf4 { [%clk 0:00:01] } 48... Kh6 { [%clk 0:00:01] } 49. c7 { [%clk 0:00:01] } 49... Kg7 { [%clk 0:00:01] } 50. c8=Q { [%clk 0:00:01] } 50... Kh6 { [%clk 0:00:01] } 51. Qe6+ { [%clk 0:00:01] } 51... Kh7 { [%clk 0:00:00] } 52. Rf7+ { [%clk 0:00:01] } 52... Kh8 { [%clk 0:00:00] } 53. Qe8# { 1-0 White wins by checkmate. } { [%clk 0:00:01] } 1-0
+
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/TkXLeRnn"]
+[Date "2021.02.08"]
+[White "CloudFish"]
+[Black "KINGNANDI_chessbot"]
+[Result "1-0"]
+[WhiteElo "2546"]
+[WhiteTitle "BOT"]
+[BlackElo "2258"]
+[BlackTitle "BOT"]
+[TimeControl "30+0"]
+[Termination "Normal"]
+[Annotator "https://lichess.org/@/KINGNANDI_chessbot"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:22:01"]
+[Variant "Standard"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1. e4 { [%clk 0:00:30] } 1... c5 { [%clk 0:00:30] } 2. Nf3 { [%clk 0:00:30] } 2... d6 { [%clk 0:00:30] } 3. d4 { [%clk 0:00:30] } 3... cxd4 { [%clk 0:00:30] } 4. Nxd4 { [%clk 0:00:30] } 4... Nf6 { [%clk 0:00:30] } 5. Nc3 { [%clk 0:00:30] } 5... a6 { [%clk 0:00:30] } 6. Be3 { [%clk 0:00:29] } 6... e5 { [%clk 0:00:30] } 7. Nb3 { [%clk 0:00:29] } 7... Be6 { [%clk 0:00:30] } 8. Qd2 { [%clk 0:00:29] } 8... Nbd7 { [%clk 0:00:30] } 9. f3 { [%clk 0:00:28] } 9... b5 { [%clk 0:00:30] } 10. g4 { [%clk 0:00:28] } 10... b4 { [%clk 0:00:29] } 11. Na4 { [%clk 0:00:28] } 11... Rb8 { [%clk 0:00:29] } 12. Bxa6 { [%clk 0:00:28] } 12... Qc7 { [%clk 0:00:29] } 13. Qd3 { [%clk 0:00:27] } 13... Be7 { [%clk 0:00:29] } 14. c4 { [%clk 0:00:27] } 14... O-O { [%clk 0:00:29] } 15. Bb5 { [%clk 0:00:27] } 15... Rxb5 { [%clk 0:00:28] } 16. cxb5 { [%clk 0:00:27] } 16... Ra8 { [%clk 0:00:28] } 17. b6 { [%clk 0:00:27] } 17... Qc6 { [%clk 0:00:28] } 18. Rc1 { [%clk 0:00:27] } 18... Qxa4 { [%clk 0:00:28] } 19. b7 { [%clk 0:00:26] } 19... Rf8 { [%clk 0:00:28] } 20. g5 { [%clk 0:00:26] } 20... Nh5 { [%clk 0:00:28] } 21. Rc7 { [%clk 0:00:25] } 21... Qxa2 { [%clk 0:00:28] } 22. O-O { [%clk 0:00:25] } 22... Nf4 { [%clk 0:00:27] } 23. Bxf4 { [%clk 0:00:24] } 23... exf4 { [%clk 0:00:27] } 24. Ra1 { [%clk 0:00:24] } 24... Qxb2 { [%clk 0:00:27] } 25. Ra8 { [%clk 0:00:24] } 25... Ne5 { [%clk 0:00:27] } 26. Qf1 { [%clk 0:00:23] } 26... Nd7 { [%clk 0:00:27] } 27. Nc1 { [%clk 0:00:23] } 27... Qd4+ { [%clk 0:00:27] } 28. Qf2 { [%clk 0:00:23] } 28... Qd1+ { [%clk 0:00:26] } 29. Kg2 { [%clk 0:00:23] } 29... Nb8 { [%clk 0:00:26] } 30. Qe2 { [%clk 0:00:22] } 30... Qd4 { [%clk 0:00:26] } 31. Rxe7 { [%clk 0:00:22] } 31... Qc5 { [%clk 0:00:26] } 32. Rxe6 { [%clk 0:00:22] } 32... fxe6 { [%clk 0:00:26] } 33. Nb3 { [%clk 0:00:22] } 33... Qb6 { [%clk 0:00:26] } 34. Qc4 { [%clk 0:00:22] } 34... Qxb7 { [%clk 0:00:26] } 35. Qxe6+ { [%clk 0:00:22] } 35... Qf7 { [%clk 0:00:26] } 36. Nd4 { [%clk 0:00:22] } 36... Nd7 { [%clk 0:00:26] } 37. Qxf7+ { [%clk 0:00:22] } 37... Kxf7 { [%clk 0:00:25] } 38. Ra7 { [%clk 0:00:22] } 38... Ke7 { [%clk 0:00:25] } 39. Nf5+ { [%clk 0:00:21] } 39... Ke6 { [%clk 0:00:25] } 40. Nxg7+ { [%clk 0:00:21] } 40... Kf7 { [%clk 0:00:25] } 41. Rxd7+ { [%clk 0:00:21] } 41... Kg6 { [%clk 0:00:25] } 42. Ne6 { [%clk 0:00:21] } 42... Rf7 { [%clk 0:00:25] } 43. Rxd6 { [%clk 0:00:21] } 43... h6 { [%clk 0:00:25] } 44. Nd8+ { [%clk 0:00:21] } 44... Kg7 { [%clk 0:00:24] } 45. gxh6+ { [%clk 0:00:21] } 45... Kf8 { [%clk 0:00:24] } 46. Nxf7 { [%clk 0:00:21] } 46... Kxf7 { [%clk 0:00:24] } 47. e5 { [%clk 0:00:21] } 47... b3 { [%clk 0:00:24] } 48. Rf6+ { [%clk 0:00:21] } 48... Ke7 { [%clk 0:00:24] } 49. h7 { [%clk 0:00:21] } 49... b2 { [%clk 0:00:24] } 50. h8=Q { [%clk 0:00:21] } 50... b1=Q { [%clk 0:00:23] } 51. Qg7+ { [%clk 0:00:21] } 51... Ke8 { [%clk 0:00:23] } 52. Rf8# { 1-0 White wins by checkmate. } { [%clk 0:00:21] } 1-0
+
+
+[Event "Third Rosenwald Trophy"]
+[Site "New York, USA"]
+[Date "1956.10.17"]
+[Round "8"]
+[White "Donald Byrne"]
+[Black "Bobby Fischer"]
+[Result "0-1"]
+[Annotator "https://lichess.org/@/Lichess"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:24:04"]
+[Variant "Standard"]
+[ECO "A15"]
+[Opening "English Opening: Anglo-Indian Defense, King's Indian Formation"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. d4 O-O 5. Bf4 d5 6. Qb3 dxc4 7. Qxc4 c6 8. e4 Nbd7 9. Rd1 Nb6 10. Qc5 Bg4 11. Bg5 Na4! 12. Qa3 Nxc3 13. bxc3 Nxe4 14. Bxe7 Qb6 15. Bc4 Nxc3 16. Bc5 Rfe8+ 17. Kf1 Be6!! 18. Bxb6 Bxc4+ 19. Kg1 Ne2+ 20. Kf1 Nxd4+ 21. Kg1 Ne2+ 22. Kf1 Nc3+ 23. Kg1 axb6 24. Qb4 Ra4 25. Qxb6 Nxd1 26. h3 Rxa2 27. Kh2 Nxf2 28. Re1 Rxe1 29. Qd8+ Bf8 30. Nxe1 Bd5 31. Nf3 Ne4 32. Qb8 b5 33. h4 h5 34. Ne5 Kg7 35. Kg1 Bc5+ 36. Kf1 Ng3+ 37. Ke1 Bb4+ 38. Kd1 Bb3+ 39. Kc1 Ne2+ 40. Kb1 Nc3+ 41. Kc1 Rc2# { 0-1 Black wins by checkmate. } 0-1
+
+
+[Event "BEST OPENİNG TRAPS: BLACKBURNE SHİLLİNG TRAP"]
+[Site "https://lichess.org/study/BtIiF6PA/J3tolPCV"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Salihyusuf2009"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:36:18"]
+[Variant "Standard"]
+[ECO "C50"]
+[Opening "Blackburne Shilling Gambit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nd4 { THE STARTING MOUNT OF THE TRAP IS LIKE AS A PION BOTTLE BUT THIS IS A TRAP } 4. Nxe5 { [%cal Ge5f7,Gc4f7] } 4... Qg5 { THE FIRST IMPACTING HAMLE ON THE EYE IS TO TAKE THE HUMLE ATTLE PION AND FORK IT, BUT THIS IS A POOR MOVE } 5. Nxf7 { [%cal Gg5g2,Gg2e4,Gg2h1] } 5... Qxg2 { [%csl Yh1][%cal Yh1f1] } 6. Rf1 { [%csl Re4,Ye1][%cal Gg2e4,Ge4e1] } 6... Qxe4+ { [%cal Gc4e2,Gd4f3] } 7. Be2 { [%cal Gd4f3,Gf3e1] } (7. Qe2 { [%cal Gd4e2] } 7... Nxe2 { [%cal Gf7h8] } 8. Nxh8 { [%cal Ge4c4,Gc4e2,Gg7g6,Gf8g7,Gg7h8] } 8... Qxc4 { [%cal Ge2c1,Gb1c3] } 9. Nc3 { [%cal Ga1c1] } 9... Nxc3 10. bxc3 { [%cal Gg7g6] } 10... g6 { [%cal Gf8g7] }) 7... Nf3# { 0-1 Black wins by checkmate. } { [%csl Re1][%cal Ge2f3,Ge4e1] } *
+
+
+[Event "BEST OPENİNG TRAPS: LASKER ATACK"]
+[Site "https://lichess.org/study/BtIiF6PA/mwnCteGF"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Salihyusuf2009"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:36:18"]
+[Variant "Standard"]
+[ECO "D08"]
+[Opening "Queen's Gambit Declined: Albin Countergambit, Lasker Trap"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. e3 Bb4+ 5. Bd2 dxe3 6. Bxb4 exf2+ { [%cal Ge1f2,Gd8d1] } 7. Kxf2 (7. Ke2 fxg1=N+ { [%cal Gg1e2] } (7... fxg1=Q 8. Qxd8+ Kxd8 9. Rxg1)  (7... Bg4+ 8. Nf3) 8. Rxg1 { [%cal Gc8g4,Gg4d1] } 8... Bg4+ { [%csl Be2,Bd1][%cal Rg4d1] }) 7... Qxd1 *
+
+
+[Event "BEST OPENİNG TRAPS: FİSHİNG POLE TRAP"]
+[Site "https://lichess.org/study/BtIiF6PA/rXvnc5ST"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Salihyusuf2009"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:36:18"]
+[Variant "Standard"]
+[ECO "C65"]
+[Opening "Ruy Lopez: Berlin Defense, Fishing Pole Variation"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Ng4 5. h3 h5 6. hxg4 hxg4 7. Ne1 Qh4 8. f3 { [%cal Gh4h1,Gg1f2] } 8... g3 { [%cal Gg3f2] } 9. Bxc6 { [%cal Gh4h2,Gh4h1] } 9... Qh1# { 0-1 Black wins by checkmate. } (9... Qh2#) *
+
+
+[Event "BEST OPENİNG TRAPS: BUDAPETS TRAP"]
+[Site "https://lichess.org/study/BtIiF6PA/F2kWfjgb"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Salihyusuf2009"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:36:18"]
+[Variant "Standard"]
+[ECO "A45"]
+[Opening "Indian Game: Lazard Gambit"]
+
+1. d4 Nf6 2. Nd2 e5 3. dxe5 Ng4 4. h3 Ne3 5. fxe3 (5. Ngf3 Nxd1 { [%csl Gd1] }) 5... Qh4+ 6. g3 Qxg3# { 0-1 Black wins by checkmate. } *
+
+
+[Event "BEST OPENİNG TRAPS: MONTİCELLİ TRAP"]
+[Site "https://lichess.org/study/BtIiF6PA/7FWWmABK"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Salihyusuf2009"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:36:18"]
+[Variant "Standard"]
+[ECO "E11"]
+[Opening "Bogo-Indian Defense: Monticelli Trap"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Bxd2+ 5. Qxd2 b6 6. g3 Bb7 7. Bg2 O-O 8. Nc3 Ne4 9. Qc2 Nxc3 10. Ng5 { [%cal Gc2h7,Gg2b7] } 10... Qxg5 11. Bxb7 { [%cal Gb7a8] } *
+
+
+[Event "BEST OPENİNG TRAPS: KİENİNGER TRAP"]
+[Site "https://lichess.org/study/BtIiF6PA/61SgkMs8"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Salihyusuf2009"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:36:18"]
+[Variant "Standard"]
+[ECO "A52"]
+[Opening "Indian Game: Budapest Defense, Rubinstein Variation"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4 Nc6 5. Nf3 Bb4+ 6. Nbd2 Qe7 7. a3 Ngxe5 8. axb4 Nd3# { 0-1 Black wins by checkmate. } { [%cal Ge2d3,Ge7e1] } *
+
+
+[Event "BEST OPENİNG TRAPS: LEGAL TRAP"]
+[Site "https://lichess.org/study/BtIiF6PA/YLH7VmVA"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Salihyusuf2009"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:36:18"]
+[Variant "Standard"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Bg4 4. Nc3 g6 5. Nxe5 Bxd1 6. Bxf7+ Ke7 7. Nd5# { 1-0 White wins by checkmate. } *
+
+
+[Event "BEST OPENİNG TRAPS: ELEPHANT TRAP"]
+[Site "https://lichess.org/study/BtIiF6PA/w4sHXp2W"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Salihyusuf2009"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:36:18"]
+[Variant "Standard"]
+[ECO "D51"]
+[Opening "Queen's Gambit Declined: Modern Variation, Knight Defense"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. cxd5 exd5 6. Nxd5 Nxd5 7. Bxd8 Bb4+ 8. Qd2 Bxd2+ 9. Kxd2 Kxd8 { [%csl Gd5,Gd7,Gc8,Gf1,Gg1] } *
+
+
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/Krkwx1FO"]
+[Date "2021.02.20"]
+[White "KINGNANDI_chessbot"]
+[Black "lichess AI level 8"]
+[Result "1-0"]
+[WhiteElo "2358"]
+[WhiteTitle "BOT"]
+[TimeControl "30+10"]
+[Termination "Normal"]
+[UTCDate "2021.02.22"]
+[UTCTime "03:40:56"]
+[Variant "Standard"]
+[ECO "D41"]
+[Opening "Queen's Gambit Declined: Semi-Tarrasch Defense"]
+[Annotator "https://lichess.org/@/KINGNANDI_chessbot"]
+
+1. Nf3 d5 2. d4 e6 3. c4 Nf6 4. Nc3 c5 5. cxd5 exd5 6. Bg5 Be7 7. dxc5 Nc6 8. e3 Be6 9. Bb5 Bxc5 10. O-O O-O 11. Bxf6 Qxf6 12. Nxd5 Qxb2 13. Nc7 Rac8 14. Nxe6 fxe6 15. Bc4 Qf6 16. Qd7 Rfe8 17. Bb3 Na5 18. Bc2 Red8 19. Qb5 b6 20. Rad1 g6 21. Rxd8+ Qxd8 22. h4 Bf8 23. Rd1 Qe8 24. Qb1 Nc4 25. Bb3 Na5 26. Ng5 Nxb3 27. Qxb3 Rc6 28. Qa4 a5 29. g3 Bb4 30. Qb5 h6 31. Nf3 Kf8 32. Qa6 Qc8 33. Qa7 Kg8 34. Rd7 Bc3 35. Kg2 Qf8 36. Qa6 Rc8 37. Ra7 Re8 38. Qd3 Bg7 39. Qxg6 Re7 40. Ra6 Qb8 41. Qb1 Rb7 42. Qe4 Kf7 43. h5 Qc8 44. Nh4 Bf8 45. Qg6+ Ke7 46. Nf3 Kd6 47. Qd3+ Kc7 48. Nd4 Qe8 49. Qc4+ Kd6 50. Qb3 Kd7 51. Rxa5 Kd6 52. Rb5 Qc8 53. a4 Bg7 54. Rxb6+ Rxb6 55. Qxb6+ Kd5 56. a5 Bf6 57. a6 Qa8 58. a7 Be5 59. Kg1 Qe8 60. Qxe6+ Qxe6 61. a8=Q+ Kc5 62. Nxe6+ Kd6 63. Nd4 Ke7 64. Nc6+ Kd6 65. Nxe5 Kc5 66. Qc6+ Kb4 67. Nd3+ Kb3 68. g4 Ka2 69. Qc3 Kb1 70. Qb2# { 1-0 White wins by checkmate. } 1-0
